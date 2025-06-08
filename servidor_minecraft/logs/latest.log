@@ -4624,3 +4624,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 18:24:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Worthy Equipment]
 [08Jun2025 18:24:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [How'd You Get This?]
 [08Jun2025 18:24:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Apothic Affixes]
+[08Jun2025 18:28:30.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Stone Age]
+[08Jun2025 18:28:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Jawed Dweller
+[08Jun2025 18:28:59.213] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[08Jun2025 18:29:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Getting an Upgrade]
+[08Jun2025 18:30:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Stone Age]
+[08Jun2025 18:30:43.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Corpse Fly
+[08Jun2025 18:30:43.556] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:31:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Getting an Upgrade]
+[08Jun2025 18:33:13.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Bloodthirsty]
+[08Jun2025 18:33:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GabitoR80 a server operator
+[08Jun2025 18:35:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to GabitoR80]
+[08Jun2025 18:35:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to sildemcito]
