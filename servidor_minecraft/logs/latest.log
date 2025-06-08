@@ -4589,3 +4589,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 18:06:07.366] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
 [08Jun2025 18:06:07.372] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [08Jun2025 18:06:08.585] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 1327 ~ -944 after 40 tries
+[08Jun2025 18:14:17.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:52055] logged in with entity id 1308 at (118.5, 73.0, 282.5)
+[08Jun2025 18:14:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[08Jun2025 18:14:17.739] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[08Jun2025 18:14:26.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[08Jun2025 18:14:50.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8881ms or 177 ticks behind
+[08Jun2025 18:15:11.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[08Jun2025 18:17:47.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sildemcito[/127.68.142.251:36365] logged in with entity id 2236 at (133.5, 71.0, 287.5)
+[08Jun2025 18:17:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito joined the game
+[08Jun2025 18:17:47.468] [Server thread/INFO] [Jade/]: Syncing config to sildemcito (00bda998-b083-30bb-a0fa-28188c786b36)
+[08Jun2025 18:18:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Creeping Woods]
+[08Jun2025 18:19:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Jawed Dweller
+[08Jun2025 18:19:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Your First Grave]
+[08Jun2025 18:19:04.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [What was that?]
+[08Jun2025 18:19:04.116] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:19:12.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has reached the goal [Here They Come]
+[08Jun2025 18:19:32.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Alex's Mobs]
+[08Jun2025 18:19:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Jun2025 18:20:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to GabitoR80: sexo anal papus
+[08Jun2025 18:20:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to sildemcito: sexo anal papus
+[08Jun2025 18:20:46.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by The Damned
+[08Jun2025 18:20:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Condemned To Die]
+[08Jun2025 18:20:46.563] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:21:16.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Mine? Mine? Mine?]
+[08Jun2025 18:22:48.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was doomed to fall
+[08Jun2025 18:22:48.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Your First Grave]
+[08Jun2025 18:22:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [What was that?]
+[08Jun2025 18:22:48.841] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[08Jun2025 18:23:00.607] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jun2025 18:23:51.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Is this... blood?]
+[08Jun2025 18:23:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Wendigo
+[08Jun2025 18:23:51.318] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:24:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has completed the challenge [Cannibal]
+[08Jun2025 18:24:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Worthy Equipment]
+[08Jun2025 18:24:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [How'd You Get This?]
+[08Jun2025 18:24:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Apothic Affixes]
