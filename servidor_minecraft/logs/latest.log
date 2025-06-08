@@ -4636,3 +4636,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 18:33:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GabitoR80 a server operator
 [08Jun2025 18:35:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to GabitoR80]
 [08Jun2025 18:35:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to sildemcito]
+[08Jun2025 18:36:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito fell from a high place
+[08Jun2025 18:36:37.404] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:36:52.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported sildemcito to GabitoR80]
+[08Jun2025 18:38:35.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Jawed Dweller
+[08Jun2025 18:38:35.233] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:38:44.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Jawed Dweller
+[08Jun2025 18:38:44.193] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[08Jun2025 18:38:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 326.500000, 89.500000, 688.500000]
+[08Jun2025 18:38:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported sildemcito to GabitoR80]
+[08Jun2025 18:39:10.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Jerky?]
+[08Jun2025 18:39:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Jerky?]
+[08Jun2025 18:39:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Is this... blood?]
+[08Jun2025 18:39:14.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Monster Hunter]
+[08Jun2025 18:39:15.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Monster Hunter]
+[08Jun2025 18:39:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Not a Diamond]
+[08Jun2025 18:40:24.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Sweet Dreams]
+[08Jun2025 18:40:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Sweet Dreams]
+[08Jun2025 18:41:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Bloodthirsty]
+[08Jun2025 18:41:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Jawed Dweller
+[08Jun2025 18:41:08.342] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[08Jun2025 18:41:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 271.500000, 96.500000, 670.500000]
+[08Jun2025 18:41:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Jawed Dweller
+[08Jun2025 18:41:14.562] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[08Jun2025 18:41:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Chain Death]
+[08Jun2025 18:41:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Jawed Dweller
+[08Jun2025 18:41:23.665] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[08Jun2025 18:41:26.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 269.500000, 95.500000, 658.500000]
+[08Jun2025 18:48:03.884] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=221, y=67, z=714}
+[08Jun2025 18:50:16.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
+[08Jun2025 18:50:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[08Jun2025 18:51:48.024] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[08Jun2025 18:51:48.030] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[08Jun2025 18:51:48.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:37185] logged in with entity id 11424 at (264.37679058725854, 97.5625, 678.9247549276503)
+[08Jun2025 18:51:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[08Jun2025 18:51:48.105] [Server thread/INFO] [jeg/]: Player GabitoR80 has received the first join message.
+[08Jun2025 18:51:48.105] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[08Jun2025 18:53:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by The Damned
+[08Jun2025 18:53:10.062] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
