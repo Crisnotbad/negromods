@@ -765,3 +765,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:17:35.812] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [10Jun2025 22:17:35.836] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
 [10Jun2025 22:17:35.844] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[10Jun2025 22:32:19.632] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:32:19.639] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:32:19.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:45747] logged in with entity id 1185 at (124.30000001192093, 65.0, -394.8248820943257)
+[10Jun2025 22:32:19.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[10Jun2025 22:32:19.899] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[10Jun2025 22:32:23.032] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=143, y=35, z=-465}
+[10Jun2025 22:32:42.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=298, y=-32, z=-527}
+[10Jun2025 22:32:47.910] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=321, y=28, z=-432}
+[10Jun2025 22:32:48.751] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=250, y=11, z=-592}
+[10Jun2025 22:32:50.173] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=327, y=10, z=-392}
