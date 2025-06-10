@@ -795,3 +795,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:43:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Fighting Nightmares]
 [10Jun2025 22:43:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Worthy Equipment]
 [10Jun2025 22:45:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [How'd You Get This?]
+[10Jun2025 22:48:34.692] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:48:34.695] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:48:34.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:59971] logged in with entity id 6698 at (105.71372333522605, 15.0, -389.4039377543899)
+[10Jun2025 22:48:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[10Jun2025 22:48:34.781] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[10Jun2025 22:48:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabitoR80> negro de mrd
+[10Jun2025 22:49:12.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> hola+
+[10Jun2025 22:49:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 22:52:34.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-20, y=-39, z=-663}
+[10Jun2025 22:52:40.452] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=208, y=0, z=-680}
+[10Jun2025 22:53:10.523] [Worker-Main-41/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=126, y=-8, z=-795}
+[10Jun2025 22:53:10.544] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=129, y=-8, z=-792}
+[10Jun2025 22:53:25.866] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=44, y=69, z=-377}
+[10Jun2025 22:53:38.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=91, y=18, z=-805}
+[10Jun2025 22:53:41.334] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=37, y=-1, z=-818}
+[10Jun2025 22:53:46.294] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=250, y=-14, z=-835}
+[10Jun2025 22:54:19.298] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=369, y=2, z=-774}
+[10Jun2025 22:54:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Amateur Archaeologist]
+[10Jun2025 22:55:51.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]

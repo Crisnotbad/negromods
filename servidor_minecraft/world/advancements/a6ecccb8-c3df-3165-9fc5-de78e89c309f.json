@@ -210,6 +210,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-10 00:43:39 +0000",
+      "minecraft:spider": "2025-06-10 22:44:15 +0000",
+      "minecraft:creeper": "2025-06-10 22:46:08 +0000",
       "minecraft:enderman": "2025-06-10 00:54:06 +0000",
       "minecraft:zombie": "2025-06-09 23:50:23 +0000"
     },
@@ -350,6 +352,43 @@
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2025-06-10 02:41:28 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-10 22:44:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-10 22:45:05 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_creeper": "2025-06-10 22:42:48 +0000",
+      "baby_skeleton": "2025-06-10 22:44:43 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-10 22:43:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-10 22:43:58 +0000"
+    },
+    "done": true
+  },
+  "jeg:grenade": {
+    "criteria": {
+      "Item": "2025-06-10 22:48:31 +0000"
     },
     "done": true
   },
