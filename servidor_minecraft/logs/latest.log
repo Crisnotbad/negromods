@@ -775,3 +775,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:32:47.910] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=321, y=28, z=-432}
 [10Jun2025 22:32:48.751] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=250, y=11, z=-592}
 [10Jun2025 22:32:50.173] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=327, y=10, z=-392}
+[10Jun2025 22:36:53.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
+[10Jun2025 22:36:53.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[10Jun2025 22:37:57.785] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:37:57.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 22:37:57.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:44893] logged in with entity id 2288 at (122.4999061868718, 68.5, -407.0048934021782)
+[10Jun2025 22:37:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[10Jun2025 22:37:57.867] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[10Jun2025 22:42:29.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 137.500000, 84.500000, -414.500000]
+[10Jun2025 22:42:33.055] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=225, y=26, z=-626}
+[10Jun2025 22:42:33.056] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=225, y=27, z=-626}
+[10Jun2025 22:42:33.056] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=225, y=26, z=-625}
+[10Jun2025 22:43:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Nightmare Stalker
+[10Jun2025 22:43:26.582] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[10Jun2025 22:43:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 188.500000, 68.500000, -354.500000]
+[10Jun2025 22:43:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Nightmare Stalker
+[10Jun2025 22:43:52.139] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[10Jun2025 22:43:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 208.500000, 70.500000, -382.500000]
+[10Jun2025 22:43:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Fighting Nightmares]
+[10Jun2025 22:43:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Worthy Equipment]
+[10Jun2025 22:45:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [How'd You Get This?]
