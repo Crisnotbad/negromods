@@ -815,3 +815,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 22:54:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Amateur Archaeologist]
 [10Jun2025 22:55:51.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
 [10Jun2025 23:02:55.913] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=175, y=135, z=-450}
+[10Jun2025 23:06:43.114] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[10Jun2025 23:06:43.115] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[10Jun2025 23:07:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[10Jun2025 23:07:45.196] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[10Jun2025 23:07:45.196] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[10Jun2025 23:07:45.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[10Jun2025 23:07:45.197] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[10Jun2025 23:09:41.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:10:07.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[10Jun2025 23:10:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[10Jun2025 23:10:07.385] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jun2025 23:10:19.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/13073, l='ServerLevel[world]', x=203.85, y=99.00, z=-750.95] died, message: 'Possessed Villager was slain by Zombie Villager'
+[10Jun2025 23:10:26.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:10:26.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:10:26.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:40923] logged in with entity id 13225 at (232.29606127280533, 151.0, -809.2969388666652)
+[10Jun2025 23:10:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[10Jun2025 23:10:26.197] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[10Jun2025 23:10:38.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 23:13:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[10Jun2025 23:13:57.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Monster Hunter]
+[10Jun2025 23:16:09.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 352.500000, 142.500000, -806.500000]
+[10Jun2025 23:17:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:17:33.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:17:40.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Funeral Theft]
+[10Jun2025 23:18:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Creeping Woods]
+[10Jun2025 23:18:25.962] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=419, y=97, z=-765}
+[10Jun2025 23:18:42.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [A True Source of Evil]
+[10Jun2025 23:18:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [IT MOVES!]
+[10Jun2025 23:18:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [IT MOVES!]
+[10Jun2025 23:19:20.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Far From Perfect]
+[10Jun2025 23:19:28.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [The Power of light]
+[10Jun2025 23:20:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [The Power of light]
+[10Jun2025 23:20:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 23:20:52.614] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[10Jun2025 23:20:52.614] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[10Jun2025 23:21:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:25:57.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/18368, l='ServerLevel[world]', x=111.38, y=61.00, z=-376.11] died, message: 'Possessed Villager was slain by Zombie'
+[10Jun2025 23:26:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
