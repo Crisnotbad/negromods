@@ -380,6 +380,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-06-10 23:00:11 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-06-10 22:43:58 +0000"
@@ -389,6 +395,12 @@
   "jeg:grenade": {
     "criteria": {
       "Item": "2025-06-10 22:48:31 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-10 22:54:24 +0000"
     },
     "done": true
   },
