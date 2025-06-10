@@ -853,3 +853,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:21:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
 [10Jun2025 23:25:57.869] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/18368, l='ServerLevel[world]', x=111.38, y=61.00, z=-376.11] died, message: 'Possessed Villager was slain by Zombie'
 [10Jun2025 23:26:05.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:26:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:26:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 23:26:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak fell off a ladder
+[10Jun2025 23:26:47.591] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[10Jun2025 23:27:12.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[10Jun2025 23:27:12.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[10Jun2025 23:27:37.293] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:27:37.297] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:27:37.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:52189] logged in with entity id 19113 at (102.32609744242453, -25.0, -392.5306332387638)
+[10Jun2025 23:27:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[10Jun2025 23:27:37.393] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[10Jun2025 23:28:26.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak fell from a high place
+[10Jun2025 23:28:26.488] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[10Jun2025 23:28:58.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak was kicked for floating too long!
+[10Jun2025 23:28:58.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Flying is not enabled on this server
+[10Jun2025 23:28:58.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[10Jun2025 23:29:10.986] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:29:10.988] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[10Jun2025 23:29:10.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:60949] logged in with entity id 19499 at (102.13956493958544, -2.47166637926263, -393.57881967242145)
+[10Jun2025 23:29:11.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[10Jun2025 23:29:11.072] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[10Jun2025 23:30:42.929] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=380, y=8, z=-112}
+[10Jun2025 23:36:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]

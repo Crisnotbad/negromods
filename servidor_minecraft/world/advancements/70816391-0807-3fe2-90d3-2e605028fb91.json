@@ -245,6 +245,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-10 23:13:57 +0000",
+      "minecraft:zombie": "2025-06-10 23:26:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-10 23:13:57 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:itmoves": {
     "criteria": {
       "itmoves": "2025-06-10 23:18:42 +0000"
@@ -260,18 +273,6 @@
   "creepingwoods:the_power_of_light": {
     "criteria": {
       "the_power_of_light": "2025-06-10 23:20:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-06-10 23:13:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-06-10 23:13:57 +0000"
     },
     "done": true
   },
