@@ -252,6 +252,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-10 23:13:57 +0000",
+      "minecraft:silverfish": "2025-06-11 23:40:06 +0000",
       "minecraft:zombie": "2025-06-10 23:26:10 +0000"
     },
     "done": false
@@ -379,6 +380,12 @@
   "jeg:gunmetal_nugget": {
     "criteria": {
       "Item": "2025-06-11 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2025-06-11 23:43:36 +0000"
     },
     "done": true
   },

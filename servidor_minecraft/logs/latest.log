@@ -727,3 +727,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 23:23:10.258] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
 [11Jun2025 23:36:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Magery]
 [11Jun2025 23:38:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[11Jun2025 23:43:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was frozen solid by GabitoR80's
+[11Jun2025 23:43:23.075] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 23:46:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 157.500000, -56.500000, -320.500000]
+[11Jun2025 23:49:12.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[11Jun2025 23:49:26.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
