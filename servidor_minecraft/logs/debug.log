@@ -12928,3 +12928,72 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jun2025 23:32:35.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jun2025 23:32:35.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jun2025 23:36:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:37:35.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:37:35.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:38:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> w
+[10Jun2025 23:39:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:39:40.612] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=191, y=81, z=-407}
+[10Jun2025 23:39:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 23:39:51.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=498, y=-10, z=-352}
+[10Jun2025 23:39:51.183] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=496, y=-10, z=-353}
+[10Jun2025 23:40:29.175] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['fernanfumacrak'/6698, l='ServerLevel[world]', x=232.30, y=151.00, z=-809.30, removed=UNLOADED_WITH_PLAYER]]
+[10Jun2025 23:40:32.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Apothic Affixes]
+[10Jun2025 23:40:32.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [How'd You Get This?]
+[10Jun2025 23:41:40.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[10Jun2025 23:42:35.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:42:35.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:43:50.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:45:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [A Strange Grave Dust]
+[10Jun2025 23:46:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:46:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Hunted]
+[10Jun2025 23:46:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [A Strange Grave Dust]
+[10Jun2025 23:47:35.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:47:35.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:48:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:49:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Ambush]
+[10Jun2025 23:49:03.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Icicle the Scary'/26251, l='ServerLevel[world]', x=388.70, y=21.00, z=-446.30] died: Icicle the Scary was slain by GabitoR80
+[10Jun2025 23:49:03.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has reached the goal [Worthy Equipment]
+[10Jun2025 23:49:03.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has completed the challenge [He Wasn't So Strong]
+[10Jun2025 23:49:04.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Getting an Upgrade]
+[10Jun2025 23:49:24.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jun2025 23:49:24.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jun2025 23:50:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Magic Writing]
+[10Jun2025 23:50:21.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [A little cleaning is necessary]
+[10Jun2025 23:51:58.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:52:35.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:52:35.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:52:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:53:12.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Chest Slayer]
+[10Jun2025 23:53:38.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[10Jun2025 23:55:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[10Jun2025 23:56:45.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/28763, l='ServerLevel[world]', x=108.95, y=61.54, z=-374.43] died, message: 'Possessed Villager was slain by Sprinter'
+[10Jun2025 23:56:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[10Jun2025 23:57:11.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/28988, l='ServerLevel[world]', x=111.67, y=61.88, z=-377.99] died, message: 'Possessed Villager was slain by Sprinter'
+[10Jun2025 23:57:35.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:57:35.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:57:40.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/28700, l='ServerLevel[world]', x=105.33, y=61.00, z=-375.35] died, message: 'Possessed Villager was slain by Sprinter'
+[10Jun2025 23:58:59.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/28246, l='ServerLevel[world]', x=240.01, y=61.81, z=-340.09] died: Undead Knight suffocated in a wall
+[10Jun2025 23:59:08.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Bloodthirsty]
+[11Jun2025 00:00:15.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 1000.500000, 80.000000, 619.293828]
+[11Jun2025 00:00:15.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[11Jun2025 00:00:18.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 0.0,-10.806526110008988,0.0
+[11Jun2025 00:00:24.408] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1042, y=-39, z=512}
+[11Jun2025 00:00:46.783] [Worker-Main-41/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=913, y=-41, z=777}
+[11Jun2025 00:00:47.286] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1228, y=-8, z=720}
+[11Jun2025 00:01:06.147] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=791, y=17, z=575}
+[11Jun2025 00:01:46.462] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1010, y=63, z=535}
+[11Jun2025 00:02:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[11Jun2025 00:02:02.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 9.128360589549743,0.0,4.419267635077745
+[11Jun2025 00:02:02.869] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=427, y=-32, z=-86}
+[11Jun2025 00:02:02.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9407ms or 188 ticks behind
+[11Jun2025 00:02:09.594] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=748, y=-9, z=354}
+[11Jun2025 00:02:47.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 00:02:47.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 00:03:09.579] [Server thread/DEBUG] [mixin/]: Mixing UniqueSwordMixin from simplymore.mixins.json into net.sweenus.simplyswords.api.SimplySwordsAPI
+[11Jun2025 00:03:10.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [From The Shadows]
+[11Jun2025 00:03:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Back to childhood]
+[11Jun2025 00:03:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Not even afraid of death]
+[11Jun2025 00:03:37.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[11Jun2025 00:05:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [From The Shadows]
+[11Jun2025 00:06:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[11Jun2025 00:06:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]

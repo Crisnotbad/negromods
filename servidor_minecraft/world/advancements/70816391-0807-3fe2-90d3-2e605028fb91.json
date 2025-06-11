@@ -82,6 +82,7 @@
       "minecraft:cold_ocean": "2025-06-10 02:31:17 +0000",
       "minecraft:forest": "2025-06-09 23:53:17 +0000",
       "minecraft:windswept_forest": "2025-06-10 01:14:56 +0000",
+      "minecraft:deep_dark": "2025-06-10 23:34:58 +0000",
       "minecraft:meadow": "2025-06-10 01:27:55 +0000",
       "minecraft:plains": "2025-06-09 23:54:13 +0000"
     },
@@ -126,6 +127,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-10 00:57:12 +0000",
+      "potato": "2025-06-11 00:00:56 +0000",
       "bread": "2025-06-10 00:06:34 +0000",
       "cooked_chicken": "2025-06-10 01:33:33 +0000"
     },
@@ -273,6 +275,60 @@
   "creepingwoods:the_power_of_light": {
     "criteria": {
       "the_power_of_light": "2025-06-10 23:20:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-10 23:40:32 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-10 23:47:06 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-06-10 23:59:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-10 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-10 23:45:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-10 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2025-06-10 23:50:04 +0000"
+    },
+    "done": true
+  },
+  "jeg:grenade": {
+    "criteria": {
+      "Item": "2025-06-10 23:50:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-06-10 23:40:32 +0000"
     },
     "done": true
   },
