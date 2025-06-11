@@ -18,3 +18,58 @@
 [11Jun2025 00:05:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [From The Shadows]
 [11Jun2025 00:06:04.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
 [11Jun2025 00:06:11.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[11Jun2025 00:07:07.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/33685, l='ServerLevel[world]', x=705.97, y=64.24, z=480.71] died: Undead Knight was slain by GabitoR80
+[11Jun2025 00:07:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by Skeleton
+[11Jun2025 00:07:44.283] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:07:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 708.500000, 64.500000, 491.500000]
+[11Jun2025 00:08:16.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Bone Crusher]
+[11Jun2025 00:08:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[11Jun2025 00:09:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Goated]
+[11Jun2025 00:09:16.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Goated]
+[11Jun2025 00:09:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was frozen to death
+[11Jun2025 00:09:22.939] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 00:09:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[11Jun2025 00:09:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Is this... blood?]
+[11Jun2025 00:09:45.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[11Jun2025 00:09:49.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:09:49.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:10:06.185] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:10:06.187] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:10:06.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:53943] logged in with entity id 35868 at (704.9930435406734, 63.43714675683689, 522.8562407494366)
+[11Jun2025 00:10:06.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:10:06.263] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:10:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Schizophrenia]
+[11Jun2025 00:11:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Ashes 'n Bones]
+[11Jun2025 00:11:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Spooky Scary Army]
+[11Jun2025 00:11:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Spooky Scary Army]
+[11Jun2025 00:12:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Boneyard]
+[11Jun2025 00:13:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 withered away
+[11Jun2025 00:13:30.490] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:13:35.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Lifestealer
+[11Jun2025 00:13:35.238] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 00:13:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 705.500000, 64.500000, 463.500000]
+[11Jun2025 00:14:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[11Jun2025 00:14:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Betrayed Guzzler
+[11Jun2025 00:14:26.135] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:14:33.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has reached the goal [Chain Death]
+[11Jun2025 00:14:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Lifestealer
+[11Jun2025 00:14:33.541] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 00:14:40.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 695.500000, 64.500000, 480.500000]
+[11Jun2025 00:14:51.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:14:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:15:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Ghostly Anomaly Detected]
+[11Jun2025 00:15:28.531] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:15:28.533] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:15:28.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:52097] logged in with entity id 39252 at (127.5, 67.0, -408.5)
+[11Jun2025 00:15:28.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:15:28.565] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:15:44.864] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[11Jun2025 00:15:44.864] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[11Jun2025 00:16:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[11Jun2025 00:16:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 died from life stealing
+[11Jun2025 00:16:16.589] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:16:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 715.500000, 68.500000, 448.500000]
+[11Jun2025 00:16:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Lifestealer
+[11Jun2025 00:16:25.184] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 00:16:28.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:16:28.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game

@@ -127,6 +127,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-10 00:57:12 +0000",
+      "baked_potato": "2025-06-11 00:05:07 +0000",
       "potato": "2025-06-11 00:00:56 +0000",
       "bread": "2025-06-10 00:06:34 +0000",
       "cooked_chicken": "2025-06-10 01:33:33 +0000"
@@ -284,21 +285,9 @@
     },
     "done": true
   },
-  "mekanismadditions:hurt_by_babies": {
+  "apotheosis:affix/root": {
     "criteria": {
-      "baby_skeleton": "2025-06-10 23:47:06 +0000"
-    },
-    "done": false
-  },
-  "majruszsdifficulty:bleeding_inflicted": {
-    "criteria": {
-      "bleeding_applied": "2025-06-10 23:59:08 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-06-10 23:49:03 +0000"
+      "sword": "2025-06-10 23:40:32 +0000"
     },
     "done": true
   },
@@ -308,15 +297,21 @@
     },
     "done": true
   },
-  "apotheosis:affix/boss": {
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-10 23:47:06 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-06-10 23:49:03 +0000"
     },
     "done": true
   },
-  "jeg:revolver": {
+  "apotheosis:affix/boss": {
     "criteria": {
-      "Item": "2025-06-10 23:50:04 +0000"
+      "sword": "2025-06-10 23:49:03 +0000"
     },
     "done": true
   },
@@ -326,9 +321,51 @@
     },
     "done": true
   },
-  "apotheosis:affix/root": {
+  "jeg:revolver": {
     "criteria": {
-      "sword": "2025-06-10 23:40:32 +0000"
+      "Item": "2025-06-10 23:50:04 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-06-10 23:59:08 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-06-11 00:05:38 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:goated": {
+    "criteria": {
+      "goated": "2025-06-11 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-06-11 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-11 00:11:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-06-11 00:11:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-11 00:14:33 +0000"
     },
     "done": true
   },
