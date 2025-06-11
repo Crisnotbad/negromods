@@ -376,5 +376,23 @@
     },
     "done": true
   },
+  "jeg:gunmetal_nugget": {
+    "criteria": {
+      "Item": "2025-06-11 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2025-06-11 23:26:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2025-06-11 23:25:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

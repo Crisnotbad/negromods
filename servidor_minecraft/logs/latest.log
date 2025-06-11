@@ -725,3 +725,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 23:23:10.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:54187] logged in with entity id 1830 at (134.30720538256375, 67.0, -403.3562410362156)
 [11Jun2025 23:23:10.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
 [11Jun2025 23:23:10.258] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[11Jun2025 23:36:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Magery]
+[11Jun2025 23:38:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
