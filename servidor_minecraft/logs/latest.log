@@ -73,3 +73,209 @@
 [11Jun2025 00:16:25.184] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
 [11Jun2025 00:16:28.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
 [11Jun2025 00:16:28.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:17:11.485] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:17:11.487] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:17:11.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:50863] logged in with entity id 40691 at (742.2891379341971, 63.145866592470405, 465.7470007630717)
+[11Jun2025 00:17:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:17:11.564] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:17:19.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Double Trouble]
+[11Jun2025 00:17:27.562] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=713, y=63, z=473}
+[11Jun2025 00:17:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 died whilst trying to escape Idcow the Not Very Nice
+[11Jun2025 00:17:33.437] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:17:38.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 754.500000, 62.500000, 471.500000]
+[11Jun2025 00:17:41.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:17:41.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:18:05.984] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:18:05.987] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:18:05.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:47893] logged in with entity id 41677 at (742.2891379341971, 63.145866592470405, 465.7470007630717)
+[11Jun2025 00:18:06.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:18:06.056] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:18:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by Summoned Skeleton
+[11Jun2025 00:18:10.138] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:18:14.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 757.500000, 62.500000, 458.500000]
+[11Jun2025 00:18:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 742.500000, 63.500000, 465.500000]
+[11Jun2025 00:18:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> y
+[11Jun2025 00:18:58.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [I can't breathe]
+[11Jun2025 00:19:03.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 742.500000, 63.500000, 465.500000]
+[11Jun2025 00:19:06.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:19:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:19:24.838] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:19:24.840] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:19:24.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:46053] logged in with entity id 42989 at (742.5, 63.5, 465.5)
+[11Jun2025 00:19:24.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:19:24.931] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:19:54.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[11Jun2025 00:19:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:20:23.033] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:20:23.035] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[11Jun2025 00:20:23.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fernanfumacrak[/127.196.102.69:59135] logged in with entity id 43568 at (742.5, 63.5, 465.5)
+[11Jun2025 00:20:23.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak joined the game
+[11Jun2025 00:20:23.103] [Server thread/INFO] [Jade/]: Syncing config to fernanfumacrak (70816391-0807-3fe2-90d3-2e605028fb91)
+[11Jun2025 00:20:50.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was pierced by Idcow the Not Very Nice's icicle
+[11Jun2025 00:20:50.683] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:20:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 731.500000, 64.500000, 474.500000]
+[11Jun2025 00:21:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Direwolf
+[11Jun2025 00:21:16.734] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:21:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 730.500000, 64.500000, 473.500000]
+[11Jun2025 00:22:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Lifestealer
+[11Jun2025 00:22:09.535] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[11Jun2025 00:22:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 withered away
+[11Jun2025 00:22:28.192] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:22:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 738.500000, 64.500000, 477.500000]
+[11Jun2025 00:22:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 686.500000, 64.500000, 485.500000]
+[11Jun2025 00:23:02.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[11Jun2025 00:23:08.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Disconnected
+[11Jun2025 00:23:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[11Jun2025 00:23:14.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 withered away whilst fighting Lifestealer
+[11Jun2025 00:23:14.281] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[11Jun2025 00:23:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 706.500000, 64.500000, 463.500000]
+[11Jun2025 00:23:59.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
+[11Jun2025 00:23:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[11Jun2025 00:24:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jun2025 00:24:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[11Jun2025 00:24:17.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[11Jun2025 00:24:17.303] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[11Jun2025 00:24:17.356] [Worker-Main-41/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[11Jun2025 00:24:17.427] [Worker-Main-40/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[11Jun2025 00:24:20.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[11Jun2025 00:24:20.231] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[11Jun2025 00:24:20.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[11Jun2025 00:24:20.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[11Jun2025 00:24:20.232] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[11Jun2025 00:24:20.233] [Server thread/INFO] [placebo/]: Registered 34 additional loot tables.
+[11Jun2025 00:24:20.309] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23274!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23274!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23274!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServer.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[11Jun2025 00:24:20.377] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 70 recipes
+[11Jun2025 00:24:20.377] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23269!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[11Jun2025 00:24:20.458] [Server thread/INFO] [quark/]: [Automatic Recipe Unlock] Removed 2824 recipe advancements
+[11Jun2025 00:24:20.468] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1231 advancements
+[11Jun2025 00:24:20.475] [Server thread/INFO] [placebo/]: Registered 26 additional recipes.
+[11Jun2025 00:24:20.501] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[11Jun2025 00:24:20.505] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[11Jun2025 00:24:20.508] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[11Jun2025 00:24:20.509] [Server thread/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[11Jun2025 00:24:20.511] [Server thread/INFO] [placebo/]: Registered 16 gear_sets.
+[11Jun2025 00:24:20.512] [Server thread/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[11Jun2025 00:24:20.513] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[11Jun2025 00:24:20.521] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
+[11Jun2025 00:24:20.523] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
+[11Jun2025 00:24:20.524] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
+[11Jun2025 00:24:20.525] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[11Jun2025 00:24:20.526] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[11Jun2025 00:24:20.526] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[11Jun2025 00:24:20.527] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[11Jun2025 00:24:20.528] [Server thread/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[11Jun2025 00:24:20.535] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 32 gems.
+[11Jun2025 00:24:20.539] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
+[11Jun2025 00:24:20.543] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 18 bosses.
+[11Jun2025 00:24:20.545] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[11Jun2025 00:24:20.546] [Server thread/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[11Jun2025 00:24:20.548] [Server thread/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[11Jun2025 00:24:20.551] [Server thread/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 3 milliseconds
+[11Jun2025 00:24:20.551] [Server thread/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[11Jun2025 00:24:20.552] [Server thread/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 0 milliseconds
+[11Jun2025 00:24:20.565] [Server thread/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[11Jun2025 00:24:24.857] [Server thread/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[11Jun2025 00:24:24.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7557ms or 151 ticks behind
+[11Jun2025 00:24:26.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jun2025 00:24:26.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jun2025 00:24:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jun2025 00:24:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jun2025 00:24:26.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jun2025 00:24:27.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[11Jun2025 00:24:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jun2025 00:24:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[11Jun2025 00:24:27.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[11Jun2025 00:24:27.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[11Jun2025 00:24:27.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[11Jun2025 00:24:27.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[11Jun2025 00:24:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[11Jun2025 00:24:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[11Jun2025 00:24:27.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[11Jun2025 00:24:27.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[11Jun2025 00:24:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[11Jun2025 00:24:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[11Jun2025 00:24:27.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[11Jun2025 00:24:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[11Jun2025 00:24:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[11Jun2025 00:24:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[11Jun2025 00:24:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jun2025 00:24:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jun2025 00:24:28.045] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Jun2025 00:24:28.047] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11Jun2025 00:24:28.049] [Server thread/INFO] [Framework/]: Finished unloading server configs

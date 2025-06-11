@@ -475,6 +475,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-06-11 00:17:19 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:the_power_of_light": {
     "criteria": {
       "the_power_of_light": "2025-06-10 23:19:28 +0000"
@@ -517,6 +523,12 @@
     },
     "done": true
   },
+  "creepingwoods:ghostly_anomaly_detected": {
+    "criteria": {
+      "ghostly_anomaly_detected": "2025-06-11 00:15:18 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-10 22:54:24 +0000"
@@ -528,6 +540,18 @@
       "goated": "2025-06-11 00:09:16 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/prevent_death_suffocation": {
+    "criteria": {
+      "coded_trigger": "2025-06-11 00:18:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_suffocation": "2025-06-11 00:18:58 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
