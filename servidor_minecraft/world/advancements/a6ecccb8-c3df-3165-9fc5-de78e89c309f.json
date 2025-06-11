@@ -579,21 +579,9 @@
     },
     "done": false
   },
-  "jeg:gunmetal_nugget": {
+  "apotheosis:affix/socket": {
     "criteria": {
-      "Item": "2025-06-11 01:49:08 +0000"
-    },
-    "done": true
-  },
-  "jeg:gunmetal_ingot": {
-    "criteria": {
-      "Item": "2025-06-11 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "jeg:recycler": {
-    "criteria": {
-      "Item": "2025-06-11 01:44:15 +0000"
+      "socket": "2025-06-11 00:44:12 +0000"
     },
     "done": true
   },
@@ -603,9 +591,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/socket": {
+  "jeg:circuit_board": {
     "criteria": {
-      "socket": "2025-06-11 00:44:12 +0000"
+      "Item": "2025-06-11 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "jeg:recycler": {
+    "criteria": {
+      "Item": "2025-06-11 01:44:15 +0000"
     },
     "done": true
   },
@@ -615,9 +609,15 @@
     },
     "done": true
   },
-  "jeg:circuit_board": {
+  "jeg:gunmetal_nugget": {
     "criteria": {
-      "Item": "2025-06-11 01:44:10 +0000"
+      "Item": "2025-06-11 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2025-06-11 01:49:13 +0000"
     },
     "done": true
   },
