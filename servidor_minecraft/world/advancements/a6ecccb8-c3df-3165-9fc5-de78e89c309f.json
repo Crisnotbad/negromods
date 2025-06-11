@@ -193,7 +193,8 @@
       "cooked_porkchop": "2025-06-10 01:19:59 +0000",
       "baked_potato": "2025-06-10 23:18:31 +0000",
       "apple": "2025-06-09 23:42:42 +0000",
-      "bread": "2025-06-09 23:48:05 +0000"
+      "bread": "2025-06-09 23:48:05 +0000",
+      "golden_apple": "2025-06-11 00:27:25 +0000"
     },
     "done": false
   },
@@ -224,7 +225,8 @@
       "minecraft:husk": "2025-06-11 00:11:21 +0000",
       "minecraft:enderman": "2025-06-10 00:54:06 +0000",
       "minecraft:stray": "2025-06-11 00:11:30 +0000",
-      "minecraft:zombie": "2025-06-09 23:50:23 +0000"
+      "minecraft:zombie": "2025-06-09 23:50:23 +0000",
+      "minecraft:drowned": "2025-06-11 01:08:09 +0000"
     },
     "done": false
   },
@@ -366,30 +368,6 @@
     },
     "done": true
   },
-  "mekanismadditions:not_the_babies": {
-    "criteria": {
-      "baby_skeleton": "2025-06-10 22:44:48 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:undead_army_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-06-11 00:12:10 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-06-10 23:53:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-06-10 22:45:05 +0000"
-    },
-    "done": true
-  },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
       "baby_creeper": "2025-06-10 22:42:48 +0000",
@@ -397,21 +375,9 @@
     },
     "done": false
   },
-  "creepingwoods:itmoves": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "itmoves": "2025-06-10 23:18:42 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:shadowsting": {
-    "criteria": {
-      "requirement": "2025-06-11 00:03:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-06-10 23:49:03 +0000"
+      "fighting_nightmares_0": "2025-06-10 22:43:58 +0000"
     },
     "done": true
   },
@@ -421,99 +387,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army": {
+  "mekanismadditions:not_the_babies": {
     "criteria": {
-      "army_defeated": "2025-06-11 00:11:55 +0000"
+      "baby_skeleton": "2025-06-10 22:44:48 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:recipes/misc/tattered_armor": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "has_cloth": "2025-06-11 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "creepingwoods:schizophrenia": {
-    "criteria": {
-      "schizophrenia": "2025-06-11 00:10:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-11 00:08:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-06-10 23:46:56 +0000"
-    },
-    "done": true
-  },
-  "jeg:atlantean_spear": {
-    "criteria": {
-      "Item": "2025-06-11 00:03:15 +0000"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-06-10 23:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-06-10 23:49:04 +0000"
-    },
-    "done": true
-  },
-  "creepingwoods:hes_watching": {
-    "criteria": {
-      "hes_watching": "2025-06-10 23:18:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-06-11 00:17:19 +0000"
-    },
-    "done": true
-  },
-  "creepingwoods:the_power_of_light": {
-    "criteria": {
-      "the_power_of_light": "2025-06-10 23:19:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_purification": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-10 23:50:21 +0000"
-    },
-    "done": true
-  },
-  "jeg:revolver": {
-    "criteria": {
-      "Item": "2025-06-10 23:44:35 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-06-10 23:00:11 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-06-10 23:19:20 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-06-10 22:43:58 +0000"
+      "sword": "2025-06-10 22:45:05 +0000"
     },
     "done": true
   },
@@ -523,21 +405,165 @@
     },
     "done": true
   },
-  "creepingwoods:ghostly_anomaly_detected": {
-    "criteria": {
-      "ghostly_anomaly_detected": "2025-06-11 00:15:18 +0000"
-    },
-    "done": true
-  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-10 22:54:24 +0000"
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-06-10 23:00:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-10 23:17:40 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:hes_watching": {
+    "criteria": {
+      "hes_watching": "2025-06-10 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:itmoves": {
+    "criteria": {
+      "itmoves": "2025-06-10 23:18:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-10 23:19:20 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:the_power_of_light": {
+    "criteria": {
+      "the_power_of_light": "2025-06-10 23:19:28 +0000"
+    },
+    "done": true
+  },
+  "jeg:revolver": {
+    "criteria": {
+      "Item": "2025-06-10 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-06-10 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-10 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-10 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-10 23:49:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-10 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-10 23:50:21 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-10 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-06-11 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2025-06-11 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-11 00:03:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-11 00:03:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-11 00:08:16 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:goated": {
     "criteria": {
       "goated": "2025-06-11 00:09:16 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:schizophrenia": {
+    "criteria": {
+      "schizophrenia": "2025-06-11 00:10:11 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-06-11 00:11:55 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-06-11 00:12:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-06-11 00:12:14 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:ghostly_anomaly_detected": {
+    "criteria": {
+      "ghostly_anomaly_detected": "2025-06-11 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-06-11 00:17:19 +0000"
     },
     "done": true
   },
@@ -553,27 +579,45 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_voodoo_poppet": {
+  "jeg:gunmetal_nugget": {
     "criteria": {
-      "has_voodoo_poppet": "2025-06-11 00:03:20 +0000"
+      "Item": "2025-06-11 01:49:08 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "jeg:gunmetal_ingot": {
     "criteria": {
-      "has_magic_scroll": "2025-06-10 23:50:13 +0000"
+      "Item": "2025-06-11 01:49:13 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "jeg:recycler": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-06-11 00:03:20 +0000"
+      "Item": "2025-06-11 01:44:15 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "jeg:scrap_workbench": {
     "criteria": {
-      "coded_trigger": "2025-06-10 23:17:40 +0000"
+      "Item": "2025-06-11 01:33:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-11 00:44:12 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2025-06-11 01:47:33 +0000"
+    },
+    "done": true
+  },
+  "jeg:circuit_board": {
+    "criteria": {
+      "Item": "2025-06-11 01:44:10 +0000"
     },
     "done": true
   },
