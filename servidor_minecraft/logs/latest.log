@@ -82,3 +82,16 @@
 [12Jun2025 01:39:23.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f16faae[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:47343) lost connection: Disconnected
 [12Jun2025 01:39:59.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302a655[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:34367) lost connection: Disconnected
 [12Jun2025 01:40:34.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d49d49d[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:55699) lost connection: Disconnected
+[12Jun2025 01:41:15.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64b8a2b7[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:57585) lost connection: Disconnected
+[12Jun2025 01:41:49.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25ccea90[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:58635) lost connection: Disconnected
+[12Jun2025 01:41:57.594] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@542e4fdf[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:60081) lost connection: Disconnected
+[12Jun2025 01:42:33.041] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b00e811[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:49693) lost connection: Disconnected
+[12Jun2025 01:42:45.008] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 01:42:45.012] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 01:42:45.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:35885] logged in with entity id 52806 at (128.5, 67.5625, -409.5)
+[12Jun2025 01:42:45.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[12Jun2025 01:42:45.066] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[12Jun2025 01:43:41.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 80.500000, -49.500000, -181.500000]
+[12Jun2025 01:44:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 01:46:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[12Jun2025 01:49:18.584] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=121, y=86, z=-414}

@@ -409,6 +409,12 @@
     },
     "done": true
   },
+  "jeg:firearm_blueprint": {
+    "criteria": {
+      "Item": "2025-06-12 01:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-12 00:31:35 +0000"
@@ -418,6 +424,12 @@
   "jeg:gunmetal_ingot": {
     "criteria": {
       "Item": "2025-06-11 23:26:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:schematic_station": {
+    "criteria": {
+      "Item": "2025-06-12 01:49:04 +0000"
     },
     "done": true
   },
