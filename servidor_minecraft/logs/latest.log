@@ -62,3 +62,13 @@
 [12Jun2025 00:58:50.765] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [12Jun2025 01:07:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak fell from a high place
 [12Jun2025 01:07:27.856] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[12Jun2025 01:13:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 98.500000, -56.500000, -390.500000]
+[12Jun2025 01:16:19.834] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=97, y=85, z=-424}
+[12Jun2025 01:19:14.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 01:20:13.784] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=174, y=76, z=-393}
+[12Jun2025 01:23:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 50.500000, -54.500000, -362.500000]
+[12Jun2025 01:23:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 01:24:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 50.500000, -54.500000, -362.500000]
+[12Jun2025 01:26:26.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Normal]
+[12Jun2025 01:26:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Hard]
+[12Jun2025 01:27:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
