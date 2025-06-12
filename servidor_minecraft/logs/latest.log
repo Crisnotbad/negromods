@@ -1,3 +1,6 @@
 [12Jun2025 00:03:14.087] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [12Jun2025 00:03:14.089] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [12Jun2025 00:06:41.984] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=140, y=86, z=-417}
+[12Jun2025 00:14:52.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Deceived Hopes]
+[12Jun2025 00:16:12.034] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=89, y=66, z=-393}
+[12Jun2025 00:17:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 136.500000, -56.500000, -321.500000]

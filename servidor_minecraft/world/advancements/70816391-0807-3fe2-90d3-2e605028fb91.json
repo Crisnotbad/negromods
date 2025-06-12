@@ -407,5 +407,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-06-12 00:14:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
