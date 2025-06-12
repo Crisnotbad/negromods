@@ -95,3 +95,65 @@
 [12Jun2025 01:44:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
 [12Jun2025 01:46:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
 [12Jun2025 01:49:18.584] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=121, y=86, z=-414}
+[12Jun2025 01:51:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Vampire Slayer]
+[12Jun2025 01:52:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was blown up by Intruder
+[12Jun2025 01:52:35.115] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 01:53:08.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 90.500000, -53.500000, -167.500000]
+[12Jun2025 01:54:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Knowledge raises the soul]
+[12Jun2025 01:54:30.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Not Today, Thank You]
+[12Jun2025 01:54:55.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Stray
+[12Jun2025 01:54:55.409] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 01:55:16.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
+[12Jun2025 01:55:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[12Jun2025 01:55:19.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Diamond Termite
+[12Jun2025 01:55:19.850] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[12Jun2025 01:55:34.461] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 01:55:34.466] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 01:55:34.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:44511] logged in with entity id 58581 at (128.5, 67.5625, -409.5)
+[12Jun2025 01:55:34.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[12Jun2025 01:55:34.549] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[12Jun2025 01:55:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> t
+[12Jun2025 01:55:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 126.500000, 16.500000, -335.500000]
+[12Jun2025 01:55:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 126.500000, 16.500000, -335.500000]
+[12Jun2025 01:55:52.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[12Jun2025 01:55:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game
+[12Jun2025 01:56:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 71.500000, -52.500000, -175.500000]
+[12Jun2025 01:58:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 01:58:42.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
+[12Jun2025 01:58:42.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[12Jun2025 01:58:49.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Jun2025 01:58:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jun2025 01:58:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jun2025 01:58:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jun2025 01:58:50.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jun2025 01:58:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[12Jun2025 01:58:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[12Jun2025 01:58:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[12Jun2025 01:58:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[12Jun2025 01:58:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jun2025 01:58:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[12Jun2025 01:58:50.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[12Jun2025 01:58:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[12Jun2025 01:58:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[12Jun2025 01:58:50.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jun2025 01:58:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[12Jun2025 01:58:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[12Jun2025 01:58:50.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[12Jun2025 01:58:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[12Jun2025 01:58:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[12Jun2025 01:58:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jun2025 01:58:50.801] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Jun2025 01:58:50.803] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[12Jun2025 01:58:50.805] [Server thread/INFO] [Framework/]: Finished unloading server configs
