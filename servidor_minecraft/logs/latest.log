@@ -72,3 +72,13 @@
 [12Jun2025 01:26:26.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Normal]
 [12Jun2025 01:26:36.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Hard]
 [12Jun2025 01:27:11.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[12Jun2025 01:34:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 01:35:38.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[12Jun2025 01:36:58.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Dread Hound
+[12Jun2025 01:36:58.106] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 01:37:15.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
+[12Jun2025 01:37:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[12Jun2025 01:38:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[12Jun2025 01:39:23.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f16faae[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:47343) lost connection: Disconnected
+[12Jun2025 01:39:59.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302a655[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:34367) lost connection: Disconnected
+[12Jun2025 01:40:34.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d49d49d[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:55699) lost connection: Disconnected
