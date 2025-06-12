@@ -219,6 +219,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-12 01:01:48 +0000",
       "minecraft:skeleton": "2025-06-10 00:43:39 +0000",
       "minecraft:vindicator": "2025-06-10 23:49:03 +0000",
       "minecraft:spider": "2025-06-10 22:44:15 +0000",
