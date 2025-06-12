@@ -10,3 +10,41 @@
 [12Jun2025 00:22:29.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Sneak 100]
 [12Jun2025 00:22:42.084] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=65, y=83, z=-409}
 [12Jun2025 00:23:35.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 00:31:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Cover Me with Diamonds]
+[12Jun2025 00:32:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was eliminated by fernanfumacrak
+[12Jun2025 00:32:18.513] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 00:34:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was frozen to death by GabitoR80
+[12Jun2025 00:34:30.954] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[12Jun2025 00:34:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was executed by fernanfumacrak
+[12Jun2025 00:34:45.607] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 00:35:58.084] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=8, y=86, z=-406}
+[12Jun2025 00:39:43.221] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[12Jun2025 00:40:32.940] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=126, z=-751}
+[12Jun2025 00:40:32.940] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-745}
+[12Jun2025 00:40:32.941] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-748}
+[12Jun2025 00:40:32.941] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-750}
+[12Jun2025 00:40:32.941] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-751}
+[12Jun2025 00:40:32.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-747}
+[12Jun2025 00:40:32.942] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-748}
+[12Jun2025 00:41:12.081] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[12Jun2025 00:41:15.080] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[12Jun2025 00:41:49.913] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[12Jun2025 00:41:49.914] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[12Jun2025 00:42:12.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[12Jun2025 00:42:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has reached the goal [Horror of the Depths]
+[12Jun2025 00:43:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 202.500000, 70.500000, -384.500000]
+[12Jun2025 00:47:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[12Jun2025 00:48:40.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was frozen solid by GabitoR80's
+[12Jun2025 00:48:40.155] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[12Jun2025 00:48:56.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was decimated by fernanfumacrak
+[12Jun2025 00:48:56.862] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[12Jun2025 00:49:18.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
+[12Jun2025 00:49:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[12Jun2025 00:49:18.094] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jun2025 00:49:40.814] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 00:49:40.820] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 00:49:40.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:59721] logged in with entity id 31887 at (123.76640303007093, 70.0, -411.4477050121255)
+[12Jun2025 00:49:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[12Jun2025 00:49:40.917] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[12Jun2025 00:50:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
+[12Jun2025 00:50:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
