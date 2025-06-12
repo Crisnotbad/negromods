@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-06-11 23:58:31 +0000"
+    },
+    "done": true
+  },
   "jeg:atlantean_spear": {
     "criteria": {
       "Item": "2025-06-11 23:43:36 +0000"
