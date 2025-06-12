@@ -48,3 +48,15 @@
 [12Jun2025 00:49:40.917] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
 [12Jun2025 00:50:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
 [12Jun2025 00:50:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[12Jun2025 00:50:50.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c6c39d7[id=<null>,name=GabitoR80,properties={},legacy=false] (/127.234.6.75:49553) lost connection: Disconnected
+[12Jun2025 00:51:11.314] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 00:51:11.318] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[12Jun2025 00:51:11.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:35325] logged in with entity id 32151 at (123.76640303007093, 70.0, -411.4477050121255)
+[12Jun2025 00:51:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[12Jun2025 00:51:11.402] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[12Jun2025 00:53:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [The Wind Darkening]
+[12Jun2025 00:53:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Vampire Slayer]
+[12Jun2025 00:54:09.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[12Jun2025 00:54:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> te
+[12Jun2025 00:57:04.884] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=122, y=85, z=-413}
+[12Jun2025 00:58:50.765] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks

@@ -427,6 +427,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-06-12 00:53:39 +0000"
+    },
+    "done": true
+  },
   "jeg:gunmetal_grit": {
     "criteria": {
       "Item": "2025-06-11 23:25:46 +0000"
@@ -436,6 +442,12 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-06-12 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-06-12 00:53:43 +0000"
     },
     "done": true
   },
