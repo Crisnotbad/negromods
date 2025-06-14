@@ -85,6 +85,7 @@
       "minecraft:windswept_forest": "2025-06-10 01:14:56 +0000",
       "minecraft:snowy_beach": "2025-06-12 00:40:43 +0000",
       "minecraft:frozen_peaks": "2025-06-11 00:36:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-14 21:38:56 +0000",
       "minecraft:deep_dark": "2025-06-10 23:34:58 +0000",
       "minecraft:meadow": "2025-06-10 01:27:55 +0000",
       "minecraft:plains": "2025-06-09 23:54:13 +0000"
@@ -254,6 +255,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-10 23:13:57 +0000",
+      "minecraft:spider": "2025-06-14 21:44:20 +0000",
       "minecraft:silverfish": "2025-06-11 23:40:06 +0000",
       "minecraft:zombie": "2025-06-10 23:26:10 +0000"
     },
@@ -478,6 +480,18 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-06-14 21:28:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-14 21:35:23 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:ghostly_anomaly_detected": {
+    "criteria": {
+      "ghostly_anomaly_detected": "2025-06-14 21:39:14 +0000"
     },
     "done": true
   },

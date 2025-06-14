@@ -231,7 +231,8 @@
       "minecraft:stray": "2025-06-11 00:11:30 +0000",
       "minecraft:silverfish": "2025-06-11 23:39:26 +0000",
       "minecraft:zombie": "2025-06-09 23:50:23 +0000",
-      "minecraft:drowned": "2025-06-11 01:08:09 +0000"
+      "minecraft:drowned": "2025-06-11 01:08:09 +0000",
+      "minecraft:zombie_villager": "2025-06-14 21:36:12 +0000"
     },
     "done": false
   },
@@ -680,17 +681,48 @@
     },
     "done": true
   },
+  "jeg:raw_brimstone": {
+    "criteria": {
+      "Item": "2025-06-14 21:13:04 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-06-14 21:22:26 +0000"
     },
     "done": true
   },
-  "jeg:raw_brimstone": {
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
     "criteria": {
-      "Item": "2025-06-14 21:13:04 +0000"
+      "rune_of_the_storm": "2025-06-14 21:30:33 +0000"
     },
     "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-06-14 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2025-06-14 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-06-14 21:38:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-06-14 21:39:59 +0000",
+      "charm_collector_3": "2025-06-14 21:39:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
