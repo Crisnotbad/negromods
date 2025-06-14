@@ -2113,3 +2113,76 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 21:49:54.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 279.500000, 79.500000, -427.500000]
 [14Jun2025 21:50:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 435.500000, 95.500000, -475.500000]
 [14Jun2025 21:50:58.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 21:53:32.655] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[14Jun2025 21:53:32.656] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[14Jun2025 21:55:16.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[14Jun2025 21:55:16.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[14Jun2025 21:55:16.004] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[14Jun2025 21:55:16.005] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[14Jun2025 21:55:39.438] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=126, z=-751}
+[14Jun2025 21:55:39.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-745}
+[14Jun2025 21:55:39.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-748}
+[14Jun2025 21:55:39.439] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-750}
+[14Jun2025 21:55:39.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-751}
+[14Jun2025 21:55:39.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-747}
+[14Jun2025 21:55:39.440] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-748}
+[14Jun2025 21:56:06.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 21:56:14.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Best Friends Forever]
+[14Jun2025 21:56:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was burnt to a crisp whilst fighting GabitoR80
+[14Jun2025 21:56:33.231] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 21:56:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 544.500000, 102.500000, -434.500000]
+[14Jun2025 21:58:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Best Friends Forever]
+[14Jun2025 21:58:39.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[14Jun2025 21:58:39.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[14Jun2025 21:58:39.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[14Jun2025 21:58:39.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[14Jun2025 21:58:45.815] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[14Jun2025 21:58:51.858] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[14Jun2025 22:00:09.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Let's start a Video]
+[14Jun2025 22:00:39.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Ice Bucket Challenge]
+[14Jun2025 22:01:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Who is Cutting Onions?]
+[14Jun2025 22:02:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 22:04:09.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [It's Showtime]
+[14Jun2025 22:04:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak fell from a high place
+[14Jun2025 22:04:25.745] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 22:04:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 1001.500000, 80.500000, -443.500000]
+[14Jun2025 22:05:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 5000.500000, 70.000000, 3546.700000]
+[14Jun2025 22:05:53.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[14Jun2025 22:05:55.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 0.0,-10.806526110009003,0.0
+[14Jun2025 22:06:17.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9714ms or 194 ticks behind
+[14Jun2025 22:06:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 22:07:14.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 7000.500000, 70.000000, 6000.500000]
+[14Jun2025 22:07:14.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3797ms or 75 ticks behind
+[14Jun2025 22:07:15.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 0.0,-10.806526110009003,0.0
+[14Jun2025 22:07:32.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3172ms or 63 ticks behind
+[14Jun2025 22:07:35.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 22:07:49.308] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=830, y=91, z=-363}
+[14Jun2025 22:08:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 10000.500000, 70.000000, 10000.500000]
+[14Jun2025 22:08:08.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[14Jun2025 22:08:08.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 0.0,-10.806526110009003,0.0
+[14Jun2025 22:08:17.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 9.632607572668348,2.665213549751499,0.5639104836573097
+[14Jun2025 22:08:30.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
+[14Jun2025 22:09:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20000.500000, 70.000000, 4000.500000]
+[14Jun2025 22:09:13.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6136ms or 122 ticks behind
+[14Jun2025 22:09:30.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak moved too quickly! 6.983784822921734,-0.797858579867075,7.21028899188741
+[14Jun2025 22:09:31.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[14Jun2025 22:10:01.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to fernanfumacrak]
+[14Jun2025 22:10:18.014] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 22:10:18.019] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[14Jun2025 22:12:01.433] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[14Jun2025 22:12:13.898] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[14Jun2025 22:13:23.556] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[14Jun2025 22:13:23.557] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[14Jun2025 22:13:23.557] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[14Jun2025 22:13:23.557] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[14Jun2025 22:14:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[14Jun2025 22:15:50.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20120.500000, 71.500000, 3937.500000]
+[14Jun2025 22:17:53.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[14Jun2025 22:18:58.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20120.500000, 71.500000, 3937.500000]
+[14Jun2025 22:19:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[14Jun2025 22:21:04.258] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=20079, y=64, z=3946}
+[14Jun2025 22:21:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 22:23:04.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Timed out
+[14Jun2025 22:23:04.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[14Jun2025 22:23:04.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fernanfumacrak lost connection: Timed out
+[14Jun2025 22:23:04.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak left the game

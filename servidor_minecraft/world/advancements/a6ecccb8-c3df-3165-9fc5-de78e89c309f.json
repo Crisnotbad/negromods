@@ -724,5 +724,42 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-14 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2025-06-14 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "conjurer_illager:find_theatre": {
+    "criteria": {
+      "in_theater": "2025-06-14 22:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-14 21:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-14 22:00:39 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:pig": "2025-06-14 21:52:00 +0000",
+      "endofherobrine:sheep": "2025-06-14 21:50:39 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-10 01:25:32 +0000",
       "minecraft:taiga": "2025-06-09 23:54:00 +0000",
+      "minecraft:deep_ocean": "2025-06-14 22:05:55 +0000",
       "minecraft:cherry_grove": "2025-06-10 01:27:42 +0000",
       "minecraft:birch_forest": "2025-06-10 01:12:39 +0000",
       "minecraft:beach": "2025-06-10 01:14:15 +0000",
@@ -82,8 +83,10 @@
       "minecraft:jagged_peaks": "2025-06-10 23:10:52 +0000",
       "minecraft:cold_ocean": "2025-06-10 02:31:17 +0000",
       "minecraft:forest": "2025-06-09 23:53:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-14 22:08:09 +0000",
       "minecraft:windswept_forest": "2025-06-10 01:14:56 +0000",
       "minecraft:snowy_beach": "2025-06-12 00:40:43 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-14 22:07:15 +0000",
       "minecraft:frozen_peaks": "2025-06-11 00:36:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-14 21:38:56 +0000",
       "minecraft:deep_dark": "2025-06-10 23:34:58 +0000",
@@ -132,6 +135,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-10 00:57:12 +0000",
       "baked_potato": "2025-06-11 00:05:07 +0000",
+      "porkchop": "2025-06-14 21:55:19 +0000",
       "potato": "2025-06-11 00:00:56 +0000",
       "bread": "2025-06-10 00:06:34 +0000",
       "cooked_chicken": "2025-06-10 01:33:33 +0000"
@@ -492,6 +496,24 @@
   "creepingwoods:ghostly_anomaly_detected": {
     "criteria": {
       "ghostly_anomaly_detected": "2025-06-14 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-14 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:lets_start_a_video": {
+    "criteria": {
+      "lets_start_a_video": "2025-06-14 22:00:09 +0000"
+    },
+    "done": true
+  },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2025-06-14 21:51:58 +0000"
     },
     "done": true
   },
