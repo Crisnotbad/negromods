@@ -16604,3 +16604,10 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 22:33:25.923] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@632d5ea into net.minecraft.network.Connection@625bfd67
 [14Jun2025 22:33:25.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
 [14Jun2025 22:33:25.954] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[14Jun2025 22:34:28.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 22:34:28.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 22:37:30.708] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=151, y=78, z=-396}
+[14Jun2025 22:39:28.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 22:39:28.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 22:40:12.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
+[14Jun2025 22:40:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game

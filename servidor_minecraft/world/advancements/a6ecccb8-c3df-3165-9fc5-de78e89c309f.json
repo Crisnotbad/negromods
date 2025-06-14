@@ -724,21 +724,16 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "endofherobrine:story/exorcist": {
     "criteria": {
-      "crying_obsidian": "2025-06-14 22:01:11 +0000"
+      "endofherobrine:pig": "2025-06-14 21:52:00 +0000",
+      "endofherobrine:sheep": "2025-06-14 21:50:39 +0000"
     },
-    "done": true
+    "done": false
   },
   "jeg:waterpipe_shotgun": {
     "criteria": {
       "Item": "2025-06-14 21:52:17 +0000"
-    },
-    "done": true
-  },
-  "conjurer_illager:find_theatre": {
-    "criteria": {
-      "in_theater": "2025-06-14 22:04:09 +0000"
     },
     "done": true
   },
@@ -754,12 +749,17 @@
     },
     "done": true
   },
-  "endofherobrine:story/exorcist": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "endofherobrine:pig": "2025-06-14 21:52:00 +0000",
-      "endofherobrine:sheep": "2025-06-14 21:50:39 +0000"
+      "crying_obsidian": "2025-06-14 22:01:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "conjurer_illager:find_theatre": {
+    "criteria": {
+      "in_theater": "2025-06-14 22:04:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
