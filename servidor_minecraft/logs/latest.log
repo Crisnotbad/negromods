@@ -2201,3 +2201,7 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 22:47:31.101] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
 [14Jun2025 22:47:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by Skeleton
 [14Jun2025 22:47:51.280] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 22:54:29.258] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=169, y=77, z=-392}
+[14Jun2025 23:18:42.510] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jun2025 23:18:42.510] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jun2025 23:18:59.308] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=138, y=92, z=-424}
