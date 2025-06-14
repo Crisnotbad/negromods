@@ -71,6 +71,8 @@
       "minecraft:cherry_grove": "2025-06-10 01:32:13 +0000",
       "minecraft:river": "2025-06-10 01:19:08 +0000",
       "minecraft:stony_shore": "2025-06-10 01:14:37 +0000",
+      "minecraft:dripstone_caves": "2025-06-14 23:41:18 +0000",
+      "minecraft:grove": "2025-06-14 23:42:54 +0000",
       "minecraft:forest": "2025-06-10 01:14:07 +0000",
       "minecraft:meadow": "2025-06-10 01:30:53 +0000",
       "minecraft:plains": "2025-06-10 01:18:12 +0000"
@@ -220,6 +222,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-10 01:37:09 +0000"
+    },
+    "done": true
+  },
+  "creepingwoods:hes_watching": {
+    "criteria": {
+      "hes_watching": "2025-06-14 23:42:46 +0000"
     },
     "done": true
   },

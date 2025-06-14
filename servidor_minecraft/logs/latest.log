@@ -2206,3 +2206,47 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 23:18:42.510] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [14Jun2025 23:18:59.308] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=138, y=92, z=-424}
 [14Jun2025 23:31:29.358] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=157, y=79, z=-395}
+[14Jun2025 23:34:39.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[14Jun2025 23:35:48.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:35:48.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:35:48.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:36831] logged in with entity id 53447 at (72.82883239977954, 121.27610442970673, -593.7522985557654)
+[14Jun2025 23:35:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[14Jun2025 23:35:48.507] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[14Jun2025 23:37:32.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[14Jun2025 23:37:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[14Jun2025 23:37:55.478] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jun2025 23:37:55.478] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jun2025 23:38:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 fell from a high place
+[14Jun2025 23:38:46.144] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[14Jun2025 23:42:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Forgotten
+[14Jun2025 23:42:43.243] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[14Jun2025 23:42:46.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Creeping Woods]
+[14Jun2025 23:42:48.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-111, y=70, z=-251}
+[14Jun2025 23:42:49.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-110, y=70, z=-253}
+[14Jun2025 23:42:49.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-110, y=70, z=-252}
+[14Jun2025 23:42:49.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-110, y=71, z=-256}
+[14Jun2025 23:42:49.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-110, y=71, z=-256}
+[14Jun2025 23:42:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported arka2007 to GabitoR80]
+[14Jun2025 23:43:17.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[14Jun2025 23:43:17.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[14Jun2025 23:43:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[14Jun2025 23:43:46.768] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e16ff32[id=<null>,name=arka2007,properties={},legacy=false] (/127.154.147.201:48321) lost connection: Disconnected
+[14Jun2025 23:43:55.779] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:43:55.782] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:43:55.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:56545] logged in with entity id 58639 at (380.0867371042328, 111.28549238931866, -760.5330205071209)
+[14Jun2025 23:43:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[14Jun2025 23:43:55.847] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[14Jun2025 23:44:15.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[14Jun2025 23:44:15.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[14Jun2025 23:44:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[14Jun2025 23:47:14.626] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:47:14.629] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 23:47:14.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:56243] logged in with entity id 59465 at (380.0867371042328, 96.03726557633468, -760.5330205071209)
+[14Jun2025 23:47:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[14Jun2025 23:47:14.681] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[14Jun2025 23:52:59.408] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=353, y=115, z=-758}
+[14Jun2025 23:53:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [Worthy Equipment]
+[14Jun2025 23:53:43.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Suit Up]
+[14Jun2025 23:53:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Not a Diamond]
+[14Jun2025 23:53:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 blew up
+[14Jun2025 23:53:44.837] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
