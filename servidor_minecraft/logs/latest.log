@@ -735,3 +735,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 20:56:56.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:43251] logged in with entity id 1897 at (128.24387588730443, 67.0, -404.36016450206887)
 [14Jun2025 20:56:56.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
 [14Jun2025 20:56:56.530] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[14Jun2025 21:04:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[14Jun2025 21:04:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[14Jun2025 21:05:12.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[14Jun2025 21:05:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[14Jun2025 21:10:19.159] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=73, y=78, z=-396}
+[14Jun2025 21:10:59.930] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[14Jun2025 21:10:59.932] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[14Jun2025 21:12:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Ice Bucket Challenge]
+[14Jun2025 21:12:40.453] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[14Jun2025 21:12:40.453] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[14Jun2025 21:12:40.454] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[14Jun2025 21:12:40.454] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
