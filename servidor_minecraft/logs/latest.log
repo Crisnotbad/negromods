@@ -2194,3 +2194,10 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 22:37:30.708] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=151, y=78, z=-396}
 [14Jun2025 22:40:12.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GabitoR80 lost connection: Disconnected
 [14Jun2025 22:40:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
+[14Jun2025 22:47:31.070] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 22:47:31.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Jun2025 22:47:31.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:50273] logged in with entity id 46178 at (124.32347042546814, 67.0, -403.09294106664464)
+[14Jun2025 22:47:31.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[14Jun2025 22:47:31.101] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[14Jun2025 22:47:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by Skeleton
+[14Jun2025 22:47:51.280] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
