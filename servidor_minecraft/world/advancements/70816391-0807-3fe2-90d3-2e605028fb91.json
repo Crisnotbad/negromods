@@ -379,9 +379,27 @@
     },
     "done": true
   },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2025-06-11 23:25:46 +0000"
+    },
+    "done": true
+  },
   "jeg:gunmetal_nugget": {
     "criteria": {
       "Item": "2025-06-11 23:25:48 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2025-06-11 23:26:03 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2025-06-11 23:43:36 +0000"
     },
     "done": true
   },
@@ -391,9 +409,9 @@
     },
     "done": true
   },
-  "jeg:atlantean_spear": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "Item": "2025-06-11 23:43:36 +0000"
+      "deceived_hopes_0": "2025-06-12 00:14:52 +0000"
     },
     "done": true
   },
@@ -409,27 +427,9 @@
     },
     "done": true
   },
-  "jeg:firearm_blueprint": {
-    "criteria": {
-      "Item": "2025-06-12 01:48:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-12 00:31:35 +0000"
-    },
-    "done": true
-  },
-  "jeg:gunmetal_ingot": {
-    "criteria": {
-      "Item": "2025-06-11 23:26:03 +0000"
-    },
-    "done": true
-  },
-  "jeg:schematic_station": {
-    "criteria": {
-      "Item": "2025-06-12 01:49:04 +0000"
     },
     "done": true
   },
@@ -445,21 +445,21 @@
     },
     "done": true
   },
-  "jeg:gunmetal_grit": {
-    "criteria": {
-      "Item": "2025-06-11 23:25:46 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-06-12 00:14:52 +0000"
-    },
-    "done": true
-  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2025-06-12 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "jeg:firearm_blueprint": {
+    "criteria": {
+      "Item": "2025-06-12 01:48:24 +0000"
+    },
+    "done": true
+  },
+  "jeg:schematic_station": {
+    "criteria": {
+      "Item": "2025-06-12 01:49:04 +0000"
     },
     "done": true
   },
