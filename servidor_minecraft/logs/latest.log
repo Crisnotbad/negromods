@@ -2205,3 +2205,4 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [14Jun2025 23:18:42.510] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [14Jun2025 23:18:42.510] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [14Jun2025 23:18:59.308] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=138, y=92, z=-424}
+[14Jun2025 23:31:29.358] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=157, y=79, z=-395}
