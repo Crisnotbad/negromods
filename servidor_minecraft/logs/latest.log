@@ -747,3 +747,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jun2025 21:12:40.453] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
 [14Jun2025 21:12:40.454] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
 [14Jun2025 21:12:40.454] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[14Jun2025 21:13:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[14Jun2025 21:15:43.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [The Secrets of Enchanting]
+[14Jun2025 21:16:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 fell from a high place
+[14Jun2025 21:16:50.085] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 21:16:56.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 249.500000, -3.500000, -926.500000]
+[14Jun2025 21:20:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[14Jun2025 21:21:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[14Jun2025 21:22:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Arachnophobe's Nightmare]
+[14Jun2025 21:24:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[14Jun2025 21:26:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[14Jun2025 21:27:40.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Krampus
+[14Jun2025 21:27:40.941] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 21:27:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 308.500000, 120.500000, -791.500000]
+[14Jun2025 21:27:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was frozen to death by Krampus
+[14Jun2025 21:27:52.238] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 21:28:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 304.500000, 118.500000, -804.500000]
+[14Jun2025 21:28:11.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [I Found It Underground]
+[14Jun2025 21:28:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 froze to death
+[14Jun2025 21:28:51.633] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 21:28:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 317.500000, 126.500000, -790.500000]
+[14Jun2025 21:29:00.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Krampus
+[14Jun2025 21:29:00.085] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 21:29:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Krampus
+[14Jun2025 21:29:16.989] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 21:29:17.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 310.500000, 120.500000, -805.500000]
+[14Jun2025 21:29:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 314.500000, 123.500000, -803.500000]
+[14Jun2025 21:29:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction The Rattlers has started a raid at BlockPos{x=315, y=124, z=-803}!
+[14Jun2025 21:29:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was killed
+[14Jun2025 21:29:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Killed fernanfumacrak]
+[14Jun2025 21:29:29.786] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 21:29:35.561] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jun2025 21:29:35.561] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jun2025 21:29:42.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> ]
+[14Jun2025 21:29:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 311.500000, 123.500000, -800.500000]
+[14Jun2025 21:30:03.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was killed
+[14Jun2025 21:30:03.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16009, l='ServerLevel[world]', x=204.36, y=100.00, z=-742.30] died, message: 'Nitwit was killed'
+[14Jun2025 21:30:03.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/16017, l='ServerLevel[world]', x=179.52, y=94.94, z=-731.13] died, message: 'Farmer was killed'
+[14Jun2025 21:30:04.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16032, l='ServerLevel[world]', x=167.49, y=89.00, z=-761.45] died, message: 'Unemployed was killed'
+[14Jun2025 21:30:04.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/16037, l='ServerLevel[world]', x=167.29, y=96.00, z=-697.17] died, message: 'Leatherworker was killed'
+[14Jun2025 21:30:04.062] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16038, l='ServerLevel[world]', x=163.51, y=96.50, z=-694.20] died, message: 'Nitwit was killed'
+[14Jun2025 21:30:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are no players left in the Raid zone!
+[14Jun2025 21:30:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction The Rattlers has won the Raid!
+[14Jun2025 21:30:04.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was killed
+[14Jun2025 21:30:04.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16565, l='ServerLevel[world]', x=126.50, y=75.00, z=-726.50] died, message: 'Unemployed was killed'
+[14Jun2025 21:30:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Killed 391 entities]
+[14Jun2025 21:30:04.327] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[14Jun2025 21:30:04.328] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[14Jun2025 21:30:09.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 323.500000, 122.500000, -807.500000]
+[14Jun2025 21:30:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 309.500000, 122.500000, -798.500000]
+[14Jun2025 21:30:33.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has reached the goal [Heart Of The Storm]
+[14Jun2025 21:30:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [Complex Curiosities]
+[14Jun2025 21:32:05.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[14Jun2025 21:32:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported fernanfumacrak to GabitoR80]
