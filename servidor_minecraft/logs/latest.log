@@ -248,3 +248,20 @@
 [15Jun2025 01:45:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 left the game
 [15Jun2025 01:45:35.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Timed out
 [15Jun2025 01:45:35.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 02:03:13.674] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 02:03:13.676] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 02:03:13.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GabitoR80[/127.234.6.75:32961] logged in with entity id 136905 at (20152.507682228108, 76.5, 3871.701392784828)
+[15Jun2025 02:03:13.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 joined the game
+[15Jun2025 02:03:13.700] [Server thread/INFO] [Jade/]: Syncing config to GabitoR80 (a6ecccb8-c3df-3165-9fc5-de78e89c309f)
+[15Jun2025 02:04:42.133] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 02:04:42.136] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 02:04:42.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:55045] logged in with entity id 137500 at (20297.769212877294, -31.0, 3931.427616776924)
+[15Jun2025 02:04:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 02:04:42.189] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[15Jun2025 02:07:41.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:07:42.858] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=20208, y=70, z=3835}
+[15Jun2025 02:11:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Mine Turtle!]
+[15Jun2025 02:12:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported arka2007 to GabitoR80]
+[15Jun2025 02:15:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20245.500000, -25.000000, 3959.500000]
+[15Jun2025 02:16:23.087] [Worker-Main-309/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
+[15Jun2025 02:16:24.334] [Worker-Main-297/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
