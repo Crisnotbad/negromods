@@ -21549,3 +21549,46 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [15Jun2025 04:38:29.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [15Jun2025 04:38:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 52.500000, -53.500000, -239.500000]
 [15Jun2025 04:38:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 79.500000, 54.000000, 32.500000]
+[15Jun2025 04:39:41.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:39:41.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:39:58.169] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:39:58.170] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:40:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:41:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Spooky Scary Skeleton]
+[15Jun2025 04:41:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 04:41:14.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:42:18.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:43:16.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[15Jun2025 04:43:19.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:43:34.584] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:43:50.158] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20204, y=70, z=3885}
+[15Jun2025 04:43:54.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:43:54.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityCrow['Crow'/225101, l='ServerLevel[world]', x=20200.01, y=71.00, z=3838.02]
+[15Jun2025 04:44:06.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:44:18.480] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:44:40.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [Workout Session]
+[15Jun2025 04:44:41.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:44:41.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:44:45.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:44:45.480] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityCrow['Crow'/225101, l='ServerLevel[world]', x=20196.51, y=70.00, z=3837.51]
+[15Jun2025 04:45:21.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:45:21.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:45:57.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:46:54.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:46:58.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:46:58.479] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityCrow['Crow'/225101, l='ServerLevel[world]', x=20184.79, y=71.99, z=3831.49]
+[15Jun2025 04:47:04.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:47:04.034] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:47:15.077] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:47:48.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:47:53.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:47:53.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityFly['Fly'/227679, l='ServerLevel[world]', x=20171.38, y=76.20, z=3809.35]
+[15Jun2025 04:47:55.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:48:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:48:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 04:48:14.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Morbius the Bishop
+[15Jun2025 04:48:14.828] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20110, y:64, z:3883, dim:minecraft:overworld]
+[15Jun2025 04:48:14.838] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:48:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:48:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[15Jun2025 04:48:55.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['GabitoR80'/228351, l='ServerLevel[world]', x=20119.35, y=64.00, z=3875.32] died: GabitoR80 was slain by GabitoR80

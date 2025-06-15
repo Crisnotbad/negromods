@@ -184,6 +184,8 @@
       "minecraft:vindicator": "2025-06-15 03:35:32 +0000",
       "minecraft:spider": "2025-06-15 00:35:21 +0000",
       "minecraft:evoker": "2025-06-15 03:34:11 +0000",
+      "minecraft:zombified_piglin": "2025-06-15 04:39:45 +0000",
+      "minecraft:wither_skeleton": "2025-06-15 04:40:47 +0000",
       "minecraft:husk": "2025-06-15 04:11:40 +0000",
       "minecraft:cave_spider": "2025-06-15 01:34:41 +0000",
       "minecraft:zombie": "2025-06-10 01:29:35 +0000"
@@ -503,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-15 04:41:00 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-06-15 04:09:37 +0000"
@@ -536,6 +544,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-06-15 04:20:37 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-06-15 04:44:40 +0000"
     },
     "done": true
   },

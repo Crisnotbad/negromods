@@ -588,3 +588,16 @@
 [15Jun2025 04:38:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
 [15Jun2025 04:38:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 52.500000, -53.500000, -239.500000]
 [15Jun2025 04:38:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 79.500000, 54.000000, 32.500000]
+[15Jun2025 04:40:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:41:00.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Spooky Scary Skeleton]
+[15Jun2025 04:41:08.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 04:43:16.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[15Jun2025 04:43:50.158] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20204, y=70, z=3885}
+[15Jun2025 04:44:40.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [Workout Session]
+[15Jun2025 04:48:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:48:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 04:48:14.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Morbius the Bishop
+[15Jun2025 04:48:14.838] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:48:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:48:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[15Jun2025 04:48:55.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['GabitoR80'/228351, l='ServerLevel[world]', x=20119.35, y=64.00, z=3875.32] died: GabitoR80 was slain by GabitoR80
