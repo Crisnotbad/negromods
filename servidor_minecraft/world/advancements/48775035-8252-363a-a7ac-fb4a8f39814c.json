@@ -418,5 +418,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-15 02:34:55 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2025-06-15 02:43:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

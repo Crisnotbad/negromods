@@ -283,3 +283,27 @@
 [15Jun2025 02:32:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20139.500000, 66.500000, 3868.500000]
 [15Jun2025 02:33:52.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/152193, l='ServerLevel[world]', x=20214.93, y=71.35, z=3818.90] died: Honeyed Archer was slain by arka2007
 [15Jun2025 02:34:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Take Aim]
+[15Jun2025 02:36:50.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 02:37:14.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 02:38:18.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sildemcito[/127.68.142.251:42239] logged in with entity id 157823 at (-121.5, 76.0, -239.5)
+[15Jun2025 02:38:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito joined the game
+[15Jun2025 02:38:18.491] [Server thread/INFO] [jeg/]: Player sildemcito has received the first join message.
+[15Jun2025 02:38:18.492] [Server thread/INFO] [Jade/]: Syncing config to sildemcito (00bda998-b083-30bb-a0fa-28188c786b36)
+[15Jun2025 02:39:44.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Creeping Woods]
+[15Jun2025 02:40:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported 3 entities to GabitoR80]
+[15Jun2025 02:40:26.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Is this... blood?]
+[15Jun2025 02:41:08.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Acquire Hardware]
+[15Jun2025 02:41:40.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:43:34.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported sildemcito to GabitoR80]
+[15Jun2025 02:43:35.808] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=20194, y=71, z=3909}
+[15Jun2025 02:43:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported sildemcito to GabitoR80]
+[15Jun2025 02:43:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by GabitoR80
+[15Jun2025 02:43:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Your First Grave]
+[15Jun2025 02:43:58.789] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[15Jun2025 02:44:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has reached the goal [Here They Come]
+[15Jun2025 02:44:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to GabitoR80]
+[15Jun2025 02:45:04.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabitoR80> mod create
+[15Jun2025 02:45:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[15Jun2025 02:45:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Suit Up]
+[15Jun2025 02:46:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Getting an Upgrade]
+[15Jun2025 02:46:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
