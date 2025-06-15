@@ -601,3 +601,10 @@
 [15Jun2025 04:48:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
 [15Jun2025 04:48:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
 [15Jun2025 04:48:55.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['GabitoR80'/228351, l='ServerLevel[world]', x=20119.35, y=64.00, z=3875.32] died: GabitoR80 was slain by GabitoR80
+[15Jun2025 04:49:10.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Morbius the Bishop
+[15Jun2025 04:49:11.000] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:49:16.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20124.500000, 64.500000, 3861.500000]
+[15Jun2025 04:49:30.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Morbius the Bishop
+[15Jun2025 04:49:30.036] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:49:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20124.500000, 64.500000, 3861.500000]
+[15Jun2025 04:55:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]

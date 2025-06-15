@@ -823,5 +823,11 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-06-15 04:48:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
