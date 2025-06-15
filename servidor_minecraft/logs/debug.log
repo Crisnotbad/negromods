@@ -18191,3 +18191,52 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [15Jun2025 00:04:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
 [15Jun2025 00:04:28.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 00:04:28.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:05:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 767.500000, 124.500000, -476.500000]
+[15Jun2025 00:05:27.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 00:07:30.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[15Jun2025 00:08:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 00:09:28.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:09:28.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:11:44.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak has made the advancement [Enchanter]
+[15Jun2025 00:12:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[15Jun2025 00:12:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 fell from a high place
+[15Jun2025 00:12:56.645] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 00:14:13.208] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-147, y=73, z=-365}
+[15Jun2025 00:14:28.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:14:28.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:18:25.250] [Worker-Main-140/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=98, z=-743}
+[15Jun2025 00:18:25.251] [Worker-Main-140/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=192, y=98, z=-747}
+[15Jun2025 00:18:25.251] [Worker-Main-140/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=197, y=98, z=-741}
+[15Jun2025 00:18:25.251] [Worker-Main-140/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=99, z=-735}
+[15Jun2025 00:18:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Spectral Wolf
+[15Jun2025 00:18:33.599] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20197, y:68, z:3866, dim:minecraft:overworld]
+[15Jun2025 00:18:33.606] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:18:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20197.500000, 68.500000, 3867.500000]
+[15Jun2025 00:19:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Spider
+[15Jun2025 00:19:00.140] [Server thread/DEBUG] [tombstone/]: A new grave of the player fernanfumacrak was created at position [x:20205, y:70, z:3982, dim:minecraft:overworld]
+[15Jun2025 00:19:00.158] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[15Jun2025 00:19:03.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [How'd You Get This?]
+[15Jun2025 00:19:12.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Cheryl the Unholy'/78630, l='ServerLevel[world]', x=20209.41, y=67.00, z=3868.40] died: Cheryl the Unholy was slain by Spectral Wolf
+[15Jun2025 00:19:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20205.500000, 70.500000, 3982.500000]
+[15Jun2025 00:19:28.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:19:28.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 00:19:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was blown up by Creeper
+[15Jun2025 00:19:37.084] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20184, y:70, z:3842, dim:minecraft:overworld]
+[15Jun2025 00:19:37.106] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:19:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20185.500000, 70.500000, 3843.500000]
+[15Jun2025 00:19:41.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was doomed to fall by Skeleton
+[15Jun2025 00:19:41.395] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:135, y:64, z:-731, dim:minecraft:overworld]
+[15Jun2025 00:19:41.400] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 00:20:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arka2007> 135 64 -731
+[15Jun2025 00:20:52.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 withered away
+[15Jun2025 00:20:52.345] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20159, y:70, z:3803, dim:minecraft:overworld]
+[15Jun2025 00:20:52.366] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:21:09.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported arka2007 to 135.500000, 64.000000, -730.500000]
+[15Jun2025 00:21:12.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20159.500000, 70.500000, 3803.500000]
+[15Jun2025 00:21:27.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 400.500000, 16.500000, -493.500000]
+[15Jun2025 00:21:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[15Jun2025 00:22:10.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20120.500000, 71.500000, 3937.500000]
+[15Jun2025 00:23:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Dark Metallurgy]
+[15Jun2025 00:23:56.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/81898, l='ServerLevel[world]', x=20247.63, y=60.27, z=3804.64] died: Honeyed Archer burned to death
+[15Jun2025 00:24:28.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 00:24:28.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

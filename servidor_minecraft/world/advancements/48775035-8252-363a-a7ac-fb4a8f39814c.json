@@ -173,6 +173,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-15 00:21:44 +0000",
       "minecraft:zombie": "2025-06-10 01:29:35 +0000"
     },
     "done": false
@@ -243,6 +244,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-15 00:19:03 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-06-14 23:50:05 +0000"
@@ -258,6 +265,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-06-14 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-15 00:23:53 +0000"
     },
     "done": true
   },
