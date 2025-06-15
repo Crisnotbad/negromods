@@ -334,3 +334,80 @@
 [15Jun2025 02:56:32.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Dread Hound
 [15Jun2025 02:56:32.337] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
 [15Jun2025 02:56:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20129.500000, 65.500000, 3902.500000]
+[15Jun2025 02:58:35.976] [Worker-Main-324/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[15Jun2025 02:58:35.977] [Worker-Main-324/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[15Jun2025 02:58:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Bloodthirsty]
+[15Jun2025 03:00:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Cursed Armor
+[15Jun2025 03:00:17.629] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 03:00:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Back to childhood]
+[15Jun2025 03:00:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Not even afraid of death]
+[15Jun2025 03:00:19.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Scarlet Persecutor
+[15Jun2025 03:00:19.093] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 03:00:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20204.500000, 67.500000, 3865.500000]
+[15Jun2025 03:00:28.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to sildemcito]
+[15Jun2025 03:00:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was scorched to death
+[15Jun2025 03:00:49.983] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 03:01:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20237.500000, 71.000000, 3649.500000]
+[15Jun2025 03:01:45.708] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20223, y=62, z=3639}
+[15Jun2025 03:02:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Arachnophobia]
+[15Jun2025 03:03:02.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 moved wrongly!
+[15Jun2025 03:04:38.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to arka2007]
+[15Jun2025 03:05:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Tools of the Trade]
+[15Jun2025 03:06:26.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[15Jun2025 03:06:26.579] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 03:06:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20137.500000, 72.000000, 3480.500000]
+[15Jun2025 03:07:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 03:07:43.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to arka2007]
+[15Jun2025 03:08:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the weather to clear]
+[15Jun2025 03:08:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 03:08:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was scorched to death
+[15Jun2025 03:08:16.332] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 03:08:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20173.500000, 68.500000, 3880.500000]
+[15Jun2025 03:09:14.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of arka2007) moved wrongly! 1.49511776230338
+[15Jun2025 03:09:14.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of arka2007) moved wrongly! 1.1641963118540843
+[15Jun2025 03:09:14.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of arka2007) moved wrongly! 0.829839686233754
+[15Jun2025 03:09:14.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of arka2007) moved wrongly! 0.46015476372576813
+[15Jun2025 03:12:03.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Timed out
+[15Jun2025 03:12:03.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 03:14:10.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 03:15:41.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 03:15:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 03:16:24.439] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 03:16:24.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 03:16:24.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:43459] logged in with entity id 178944 at (20162.91315868956, 71.0, 3809.764017436228)
+[15Jun2025 03:16:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 03:16:24.507] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[15Jun2025 03:16:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 03:17:25.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 03:18:02.658] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20219, y=68, z=3851}
+[15Jun2025 03:19:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 03:20:13.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported arka2007 to GabitoR80]
+[15Jun2025 03:20:36.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 03:21:25.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to sildemcito]
+[15Jun2025 03:22:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Enchanter]
+[15Jun2025 03:22:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported arka2007 to GabitoR80]
+[15Jun2025 03:24:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Hot Stuff]
+[15Jun2025 03:24:20.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito burned to death
+[15Jun2025 03:24:20.435] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[15Jun2025 03:24:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to arka2007]
+[15Jun2025 03:24:38.908] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=20214, y=69, z=3872}
+[15Jun2025 03:26:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to sildemcito]
+[15Jun2025 03:28:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 03:28:41.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [The Parrots and the Bats]
+[15Jun2025 03:29:57.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Hot Stuff]
+[15Jun2025 03:30:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Take Aim]
+[15Jun2025 03:30:59.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 moved wrongly!
+[15Jun2025 03:31:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Where Is The Stone Pen?]
+[15Jun2025 03:31:27.090] [Worker-Main-309/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[15Jun2025 03:31:27.091] [Worker-Main-309/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[15Jun2025 03:31:56.043] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=163, y=126, z=-751}
+[15Jun2025 03:31:56.044] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-745}
+[15Jun2025 03:31:56.045] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=165, y=125, z=-748}
+[15Jun2025 03:31:56.045] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-750}
+[15Jun2025 03:31:56.045] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-751}
+[15Jun2025 03:31:56.045] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=127, z=-747}
+[15Jun2025 03:31:56.045] [Worker-Main-325/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=168, y=125, z=-748}
+[15Jun2025 03:32:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Amateur Archaeologist]
+[15Jun2025 03:34:13.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [Fortuitous Militia]
+[15Jun2025 03:37:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Ol' Betsy]
+[15Jun2025 03:37:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Who's the Pillager Now?]

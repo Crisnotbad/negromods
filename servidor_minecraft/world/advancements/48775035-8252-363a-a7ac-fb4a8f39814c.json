@@ -77,6 +77,7 @@
       "minecraft:cold_ocean": "2025-06-15 00:43:20 +0000",
       "minecraft:forest": "2025-06-10 01:14:07 +0000",
       "minecraft:ocean": "2025-06-15 01:23:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-15 03:31:29 +0000",
       "minecraft:meadow": "2025-06-10 01:30:53 +0000",
       "minecraft:plains": "2025-06-10 01:18:12 +0000"
     },
@@ -179,6 +180,7 @@
       "minecraft:pillager": "2025-06-15 00:40:20 +0000",
       "minecraft:skeleton": "2025-06-15 00:21:44 +0000",
       "minecraft:spider": "2025-06-15 00:35:21 +0000",
+      "minecraft:evoker": "2025-06-15 03:34:11 +0000",
       "minecraft:cave_spider": "2025-06-15 01:34:41 +0000",
       "minecraft:zombie": "2025-06-10 01:29:35 +0000"
     },
@@ -412,21 +414,9 @@
     },
     "done": true
   },
-  "mekanismadditions:hurt_by_babies": {
-    "criteria": {
-      "baby_skeleton": "2025-06-15 02:52:47 +0000"
-    },
-    "done": false
-  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-06-15 02:11:49 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-06-15 02:52:55 +0000"
     },
     "done": true
   },
@@ -439,6 +429,84 @@
   "jeg:scrap_workbench": {
     "criteria": {
       "Item": "2025-06-15 02:43:26 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-15 02:52:47 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-15 02:52:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-15 03:00:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-15 03:00:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-15 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-15 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-15 03:20:17 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:cow": "2025-06-15 03:29:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-15 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-15 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-15 03:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-15 03:28:41 +0000"
     },
     "done": true
   },
