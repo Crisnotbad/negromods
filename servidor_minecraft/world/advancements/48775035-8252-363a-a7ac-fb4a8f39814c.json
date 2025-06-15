@@ -70,6 +70,7 @@
       "minecraft:taiga": "2025-06-10 01:14:45 +0000",
       "quark:glimmering_weald": "2025-06-15 00:38:24 +0000",
       "minecraft:cherry_grove": "2025-06-10 01:32:13 +0000",
+      "minecraft:birch_forest": "2025-06-15 03:40:57 +0000",
       "minecraft:river": "2025-06-10 01:19:08 +0000",
       "minecraft:stony_shore": "2025-06-10 01:14:37 +0000",
       "minecraft:dripstone_caves": "2025-06-14 23:41:18 +0000",
@@ -79,6 +80,7 @@
       "minecraft:ocean": "2025-06-15 01:23:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 03:31:29 +0000",
       "minecraft:meadow": "2025-06-10 01:30:53 +0000",
+      "minecraft:savanna": "2025-06-15 03:43:16 +0000",
       "minecraft:plains": "2025-06-10 01:18:12 +0000"
     },
     "done": false
@@ -179,6 +181,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-15 00:40:20 +0000",
       "minecraft:skeleton": "2025-06-15 00:21:44 +0000",
+      "minecraft:vindicator": "2025-06-15 03:35:32 +0000",
       "minecraft:spider": "2025-06-15 00:35:21 +0000",
       "minecraft:evoker": "2025-06-15 03:34:11 +0000",
       "minecraft:cave_spider": "2025-06-15 01:34:41 +0000",
@@ -468,6 +471,18 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-06-15 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-06-15 03:37:14 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-06-15 03:20:17 +0000"
@@ -486,6 +501,12 @@
     },
     "done": true
   },
+  "creepingwoods:lets_start_a_video": {
+    "criteria": {
+      "lets_start_a_video": "2025-06-15 03:38:18 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-15 03:32:12 +0000"
@@ -501,6 +522,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-06-15 03:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-15 03:37:06 +0000"
     },
     "done": true
   },
