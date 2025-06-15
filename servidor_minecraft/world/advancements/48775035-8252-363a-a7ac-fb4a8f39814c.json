@@ -541,9 +541,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-06-15 04:27:01 +0000",
       "1": "2025-06-15 04:19:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:mechanical_press": {
     "criteria": {
@@ -608,6 +609,12 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-06-15 03:53:39 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-06-15 04:34:03 +0000"
     },
     "done": true
   },

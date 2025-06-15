@@ -21429,3 +21429,123 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [15Jun2025 04:27:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20174.500000, 68.500000, 3868.500000]
 [15Jun2025 04:27:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [What Was That!?]
 [15Jun2025 04:27:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 04:28:38.977] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:28:38.978] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityFly['Fly'/217794, l='ServerLevel[world]', x=20202.31, y=73.91, z=3838.44]
+[15Jun2025 04:29:41.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:29:41.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:30:32.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 54.696000, -54.000000, -237.500000]
+[15Jun2025 04:31:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has reached the goal [Workout Session]
+[15Jun2025 04:31:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 burned to death
+[15Jun2025 04:31:40.410] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:10, y:34, z:-32, dim:minecraft:the_nether]
+[15Jun2025 04:31:40.411] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:31:40.486] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:31:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 10.500000, 34.000000, -31.500000]
+[15Jun2025 04:31:51.148] [Worker-Main-326/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=10, z=94}
+[15Jun2025 04:31:51.909] [Worker-Main-297/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=141, y=125, z=-739}
+[15Jun2025 04:31:51.910] [Worker-Main-297/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=146, y=124, z=-736}
+[15Jun2025 04:31:52.380] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=131, y=10, z=113}
+[15Jun2025 04:31:52.481] [Worker-Main-322/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=10, z=82}
+[15Jun2025 04:31:52.482] [Worker-Main-322/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=10, z=82}
+[15Jun2025 04:31:52.483] [Worker-Main-322/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=10, z=92}
+[15Jun2025 04:31:52.516] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=132, y=10, z=100}
+[15Jun2025 04:31:52.517] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=131, y=10, z=113}
+[15Jun2025 04:31:52.518] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=134, y=10, z=82}
+[15Jun2025 04:31:52.518] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=141, y=10, z=102}
+[15Jun2025 04:31:53.413] [Worker-Main-321/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=10, z=82}
+[15Jun2025 04:31:53.449] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=141, y=10, z=102}
+[15Jun2025 04:31:53.733] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=10, z=115}
+[15Jun2025 04:31:53.734] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=141, y=10, z=102}
+[15Jun2025 04:31:53.745] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=138, y=10, z=132}
+[15Jun2025 04:31:53.745] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=139, y=10, z=115}
+[15Jun2025 04:31:53.746] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=133, y=10, z=125}
+[15Jun2025 04:31:53.746] [Worker-Main-386/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=132, y=12, z=119}
+[15Jun2025 04:31:53.746] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=132, y=10, z=100}
+[15Jun2025 04:31:53.747] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=131, y=10, z=113}
+[15Jun2025 04:31:53.747] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=141, y=10, z=102}
+[15Jun2025 04:31:53.758] [Worker-Main-324/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=131, y=10, z=113}
+[15Jun2025 04:31:55.298] [Worker-Main-318/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=122, y=17, z=133}
+[15Jun2025 04:31:55.299] [Worker-Main-318/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=17, z=144}
+[15Jun2025 04:31:55.300] [Worker-Main-318/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=10, z=133}
+[15Jun2025 04:31:55.318] [Worker-Main-386/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=82, y=4, z=150}
+[15Jun2025 04:31:55.454] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=10, z=133}
+[15Jun2025 04:31:55.456] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=138, y=10, z=132}
+[15Jun2025 04:31:55.801] [Worker-Main-325/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=4, z=137}
+[15Jun2025 04:31:55.802] [Worker-Main-325/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=170, y=4, z=136}
+[15Jun2025 04:31:56.671] [Worker-Main-326/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=82, y=4, z=155}
+[15Jun2025 04:31:56.671] [Worker-Main-326/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=92, y=4, z=156}
+[15Jun2025 04:31:56.672] [Worker-Main-326/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=82, y=4, z=150}
+[15Jun2025 04:31:56.686] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=4, z=163}
+[15Jun2025 04:31:56.687] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=82, y=4, z=155}
+[15Jun2025 04:31:56.687] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=107, y=-15, z=155}
+[15Jun2025 04:31:56.687] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=106, y=-15, z=165}
+[15Jun2025 04:31:56.694] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=120, y=17, z=163}
+[15Jun2025 04:31:56.695] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=4, z=163}
+[15Jun2025 04:31:56.695] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=122, y=17, z=133}
+[15Jun2025 04:31:56.696] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=17, z=144}
+[15Jun2025 04:31:56.696] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=10, z=133}
+[15Jun2025 04:31:56.697] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-2, z=162}
+[15Jun2025 04:31:56.698] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=113, y=-15, z=161}
+[15Jun2025 04:31:56.698] [Worker-Main-297/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=107, y=-15, z=155}
+[15Jun2025 04:31:57.292] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=127, y=10, z=133}
+[15Jun2025 04:31:57.293] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=129, y=11, z=164}
+[15Jun2025 04:31:57.294] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=131, y=11, z=155}
+[15Jun2025 04:31:57.294] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-2, z=162}
+[15Jun2025 04:31:57.358] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=4, z=173}
+[15Jun2025 04:31:57.359] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=179, y=4, z=169}
+[15Jun2025 04:31:57.359] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=4, z=137}
+[15Jun2025 04:31:57.360] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=170, y=4, z=167}
+[15Jun2025 04:31:57.360] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=172, y=4, z=154}
+[15Jun2025 04:31:57.360] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=164, y=4, z=169}
+[15Jun2025 04:31:57.366] [Worker-Main-323/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=144, y=4, z=173}
+[15Jun2025 04:31:57.627] [Worker-Main-295/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=4, z=137}
+[15Jun2025 04:31:57.627] [Worker-Main-295/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=170, y=4, z=136}
+[15Jun2025 04:31:57.787] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=179, y=4, z=169}
+[15Jun2025 04:31:57.787] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=180, y=4, z=157}
+[15Jun2025 04:31:57.788] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=4, z=137}
+[15Jun2025 04:31:57.788] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=178, y=4, z=144}
+[15Jun2025 04:31:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 54.696000, -54.000000, -237.500000]
+[15Jun2025 04:31:58.703] [Worker-Main-296/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=4, z=192}
+[15Jun2025 04:31:58.731] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=4, z=192}
+[15Jun2025 04:31:58.737] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=92, y=4, z=156}
+[15Jun2025 04:31:58.737] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=94, y=4, z=162}
+[15Jun2025 04:31:58.746] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=4, z=192}
+[15Jun2025 04:31:58.751] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=120, y=17, z=163}
+[15Jun2025 04:31:58.751] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=4, z=163}
+[15Jun2025 04:31:58.751] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=121, y=-2, z=162}
+[15Jun2025 04:31:58.752] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=113, y=-15, z=161}
+[15Jun2025 04:31:58.752] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=107, y=-15, z=155}
+[15Jun2025 04:31:58.760] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=128, y=4, z=192}
+[15Jun2025 04:31:58.765] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=100, y=4, z=163}
+[15Jun2025 04:31:58.765] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=107, y=-15, z=155}
+[15Jun2025 04:31:58.766] [Worker-Main-393/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=106, y=-15, z=165}
+[15Jun2025 04:32:18.885] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:33:34.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:34:39.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[15Jun2025 04:34:41.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:34:41.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:34:50.836] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[15Jun2025 04:34:53.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Cursed Armor
+[15Jun2025 04:34:54.269] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:153, y:81, z:-19, dim:minecraft:the_nether]
+[15Jun2025 04:34:54.275] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:34:54.886] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:35:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 54.696000, -54.000000, -237.500000]
+[15Jun2025 04:35:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 154.500000, 81.500000, -18.500000]
+[15Jun2025 04:35:36.436] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:36:02.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[15Jun2025 04:36:31.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sildemcito lost connection: Disconnected
+[15Jun2025 04:36:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito left the game
+[15Jun2025 04:36:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was doomed to fall
+[15Jun2025 04:36:34.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:79, y:54, z:32, dim:minecraft:the_nether]
+[15Jun2025 04:36:34.662] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:36:34.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:36:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20242.500000, 24.500000, 3949.500000]
+[15Jun2025 04:36:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 52.500000, -53.500000, -239.500000]
+[15Jun2025 04:37:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 79.500000, 54.000000, 32.500000]
+[15Jun2025 04:37:12.236] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:37:18.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 04:37:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Set the time to 1000]
+[15Jun2025 04:38:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 172.500000, 93.500000, -725.500000]
+[15Jun2025 04:38:15.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:38:29.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:38:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 52.500000, -53.500000, -239.500000]
+[15Jun2025 04:38:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 79.500000, 54.000000, 32.500000]
