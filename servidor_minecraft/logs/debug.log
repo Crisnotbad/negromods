@@ -21297,3 +21297,135 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [15Jun2025 03:57:31.085] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [15Jun2025 03:58:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [We Need to Go Deeper]
 [15Jun2025 03:58:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to GabitoR80]
+[15Jun2025 03:59:36.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Nightmare Fuel]
+[15Jun2025 03:59:41.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 03:59:41.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:00:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Set the time to 1000]
+[15Jun2025 04:00:43.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:00:43.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20203.64, y=70.00, z=3849.75]
+[15Jun2025 04:00:43.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:00:43.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20205.82, y=70.00, z=3849.78]
+[15Jun2025 04:00:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has completed the challenge [Subspace Bubble]
+[15Jun2025 04:00:54.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to arka2007]
+[15Jun2025 04:01:00.858] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20213, y=69, z=3828}
+[15Jun2025 04:01:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [A Seedy Place]
+[15Jun2025 04:01:06.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Planting the Past]
+[15Jun2025 04:01:15.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Into Fire]
+[15Jun2025 04:01:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 blew up
+[15Jun2025 04:01:34.187] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20198, y:68, z:3863, dim:minecraft:overworld]
+[15Jun2025 04:01:34.208] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:01:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20198.500000, 68.500000, 3864.500000]
+[15Jun2025 04:01:40.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to GabitoR80]
+[15Jun2025 04:02:06.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:02:06.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20197.58, y=70.00, z=3839.91]
+[15Jun2025 04:02:06.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:02:06.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20196.50, y=70.00, z=3840.87]
+[15Jun2025 04:02:46.776] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:02:46.776] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20199.00, y=70.56, z=3842.55]
+[15Jun2025 04:02:47.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:02:47.778] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20197.42, y=70.00, z=3842.52]
+[15Jun2025 04:02:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 04:02:55.136] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:02:55.136] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:03:01.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:03:12.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:03:17.787] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:03:17.787] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20196.52, y=73.00, z=3846.55]
+[15Jun2025 04:04:05.684] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:04:09.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:04:09.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20202.09, y=70.00, z=3849.73]
+[15Jun2025 04:04:41.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:04:41.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:04:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [A Seedy Place]
+[15Jun2025 04:04:54.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to arka2007]
+[15Jun2025 04:05:32.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:05:32.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: EntityFly['Fly'/209270, l='ServerLevel[world]', x=20193.81, y=71.99, z=3833.82]
+[15Jun2025 04:05:46.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:08:48.776] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:08:48.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20205.14, y=70.00, z=3842.52]
+[15Jun2025 04:09:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [The Andesite Age]
+[15Jun2025 04:09:41.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:09:41.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:10:06.776] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:10:06.776] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20203.16, y=70.00, z=3841.53]
+[15Jun2025 04:10:07.775] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:10:07.775] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20204.21, y=70.00, z=3841.49]
+[15Jun2025 04:10:37.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:10:37.778] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20200.87, y=70.00, z=3845.67]
+[15Jun2025 04:11:05.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:11:05.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20199.95, y=70.00, z=3846.49]
+[15Jun2025 04:11:40.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Stephen'/211140, l='ServerLevel[world]', x=20220.77, y=69.00, z=3879.30] died: Stephen was slain by arka2007
+[15Jun2025 04:11:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [What Was That!?]
+[15Jun2025 04:11:41.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was blown up by Creeperling
+[15Jun2025 04:11:41.588] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:20222, y:68, z:3878, dim:minecraft:overworld]
+[15Jun2025 04:11:41.594] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:11:41.821] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:11:54.928] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:12:01.927] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:12:01.928] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200684, l='ServerLevel[world]', x=20210.51, y=69.00, z=3852.57]
+[15Jun2025 04:13:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Bonk!]
+[15Jun2025 04:13:04.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Not a Diamond]
+[15Jun2025 04:13:27.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Zombie
+[15Jun2025 04:13:27.566] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:20200, y:70, z:3849, dim:minecraft:overworld]
+[15Jun2025 04:13:27.573] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:13:27.931] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:13:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 04:13:40.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Zombie
+[15Jun2025 04:13:40.639] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:13:42.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was shot by Baby Skeleton
+[15Jun2025 04:13:42.127] [Server thread/DEBUG] [tombstone/]: A new grave of the player sildemcito was created at position [x:20199, y:68, z:3873, dim:minecraft:overworld]
+[15Jun2025 04:13:42.133] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[15Jun2025 04:13:47.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['arka2007'/211997, l='ServerLevel[world]', x=20201.08, y=70.00, z=3846.05] died: arka2007 was slain by arka2007
+[15Jun2025 04:13:53.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['arka2007'/212213, l='ServerLevel[world]', x=20200.54, y=70.00, z=3842.33] died: arka2007 was slain by arka2007
+[15Jun2025 04:13:57.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was shot by Skeleton
+[15Jun2025 04:13:57.444] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:14:05.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['arka2007'/212450, l='ServerLevel[world]', x=20199.32, y=70.00, z=3838.50] died: arka2007 was slain by arka2007
+[15Jun2025 04:14:10.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was shot by Skeleton
+[15Jun2025 04:14:10.988] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:20195, y:71, z:3830, dim:minecraft:overworld]
+[15Jun2025 04:14:10.998] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:14:18.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['arka2007'/212639, l='ServerLevel[world]', x=20197.64, y=71.00, z=3834.34] died: arka2007 was slain by arka2007
+[15Jun2025 04:14:27.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:14:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has reached the goal [Exorcism]
+[15Jun2025 04:14:41.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:14:41.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:14:43.278] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_empress - Set in love
+[15Jun2025 04:14:43.278] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Animal: TraderLlama['Trader Llama'/200685, l='ServerLevel[world]', x=20198.17, y=69.00, z=3851.90]
+[15Jun2025 04:14:43.278] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:15:19.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has completed the challenge [He Wasn't So Strong]
+[15Jun2025 04:18:21.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:19:41.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:19:41.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:20:26.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was frozen to death by GabitoR80
+[15Jun2025 04:20:26.630] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:20201, y:71, z:3836, dim:minecraft:overworld]
+[15Jun2025 04:20:26.630] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:20:26.631] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 04:20:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by sildemcito using [Stephen's Violent Balsa Wood Brand of Surgical Precision]
+[15Jun2025 04:20:30.784] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20207, y:68, z:3859, dim:minecraft:overworld]
+[15Jun2025 04:20:30.786] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:20:33.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:20:36.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:20:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Funeral Theft]
+[15Jun2025 04:20:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Magery]
+[15Jun2025 04:20:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20209.500000, 68.500000, 3859.500000]
+[15Jun2025 04:22:11.958] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20221, y=69, z=3911}
+[15Jun2025 04:23:18.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 04:23:23.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 04:23:32.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 04:23:48.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 04:23:54.982] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:23:55.984] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[15Jun2025 04:23:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 04:24:41.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 04:24:41.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 04:24:56.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:25:21.930] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:25:21.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:25:35.787] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[15Jun2025 04:26:59.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the weather to clear]
+[15Jun2025 04:27:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was blown up by Creeper
+[15Jun2025 04:27:04.977] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20173, y:68, z:3867, dim:minecraft:overworld]
+[15Jun2025 04:27:04.985] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 04:27:09.483] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 04:27:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20174.500000, 68.500000, 3868.500000]
+[15Jun2025 04:27:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has made the advancement [What Was That!?]
+[15Jun2025 04:27:18.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]

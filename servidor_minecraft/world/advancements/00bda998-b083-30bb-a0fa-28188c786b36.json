@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-15 03:59:36 +0000"
+    },
+    "done": true
+  },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
       "baby_creeper": "2025-06-15 02:55:38 +0000",
@@ -57,6 +63,18 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-06-15 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-15 03:58:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 03:58:10 +0000"
     },
     "done": true
   },
@@ -84,6 +102,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 03:58:10 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-15 02:38:18 +0000"
@@ -108,9 +132,33 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-15 04:15:19 +0000"
+    },
+    "done": true
+  },
   "creepingwoods:hes_watching": {
     "criteria": {
       "hes_watching": "2025-06-15 02:39:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-15 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-15 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-15 04:01:15 +0000"
     },
     "done": true
   },
@@ -209,6 +257,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-06-15 04:04:42 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-15 02:38:18 +0000"
@@ -253,6 +307,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-06-15 03:58:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-06-15 02:38:19 +0000"
@@ -268,6 +328,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-06-15 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-15 03:58:46 +0000"
     },
     "done": true
   },
