@@ -499,6 +499,12 @@
     },
     "done": true
   },
+  "jeg:custom_smg": {
+    "criteria": {
+      "Item": "2025-06-14 21:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-14 21:56:14 +0000"
@@ -511,9 +517,9 @@
     },
     "done": true
   },
-  "jeg:custom_smg": {
+  "jeg:waterpipe_shotgun": {
     "criteria": {
-      "Item": "2025-06-14 21:51:58 +0000"
+      "Item": "2025-06-15 00:02:55 +0000"
     },
     "done": true
   },

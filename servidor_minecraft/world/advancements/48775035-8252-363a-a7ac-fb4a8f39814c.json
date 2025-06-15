@@ -231,5 +231,41 @@
     },
     "done": true
   },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-06-14 23:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-14 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-06-14 23:50:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-14 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-14 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2025-06-14 23:51:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
