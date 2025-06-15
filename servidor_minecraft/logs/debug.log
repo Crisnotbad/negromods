@@ -20306,3 +20306,38 @@ Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from mu
 [15Jun2025 02:15:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20245.500000, -25.000000, 3959.500000]
 [15Jun2025 02:16:23.087] [Worker-Main-309/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=186, y=103, z=-834}
 [15Jun2025 02:16:24.334] [Worker-Main-297/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=195, y=103, z=-822}
+[15Jun2025 02:17:07.008] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20500, y=-35, z=3899}
+[15Jun2025 02:17:37.759] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:18:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:18:18.947] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:18:47.844] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:18:53.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:19:34.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:19:34.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:20:44.358] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20704, y=63, z=3855}
+[15Jun2025 02:22:47.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:24:34.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:24:34.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:28:25.193] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[15Jun2025 02:28:32.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:28:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Zombie
+[15Jun2025 02:28:38.634] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20158, y:66, z:3883, dim:minecraft:overworld]
+[15Jun2025 02:28:38.651] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 02:28:42.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20159.500000, 66.500000, 3882.500000]
+[15Jun2025 02:29:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the weather to clear]
+[15Jun2025 02:29:12.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:29:34.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:29:34.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:30:14.408] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20617, y=66, z=3811}
+[15Jun2025 02:32:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to GabitoR80]
+[15Jun2025 02:32:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 burned to death
+[15Jun2025 02:32:16.373] [Server thread/DEBUG] [tombstone/]: A new grave of the player arka2007 was created at position [x:20156, y:66, z:3864, dim:minecraft:overworld]
+[15Jun2025 02:32:16.374] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 02:32:55.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by arka2007
+[15Jun2025 02:32:55.027] [Server thread/DEBUG] [tombstone/]: A new grave of the player GabitoR80 was created at position [x:20140, y:68, z:3871, dim:minecraft:overworld]
+[15Jun2025 02:32:55.033] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 02:32:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20139.500000, 66.500000, 3868.500000]
+[15Jun2025 02:33:52.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/152193, l='ServerLevel[world]', x=20214.93, y=71.35, z=3818.90] died: Honeyed Archer was slain by arka2007
+[15Jun2025 02:34:34.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 02:34:34.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 02:34:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Take Aim]
