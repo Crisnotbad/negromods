@@ -76,6 +76,7 @@
       "minecraft:grove": "2025-06-14 23:42:54 +0000",
       "minecraft:cold_ocean": "2025-06-15 00:43:20 +0000",
       "minecraft:forest": "2025-06-10 01:14:07 +0000",
+      "minecraft:ocean": "2025-06-15 01:23:36 +0000",
       "minecraft:meadow": "2025-06-10 01:30:53 +0000",
       "minecraft:plains": "2025-06-10 01:18:12 +0000"
     },
@@ -236,19 +237,19 @@
     },
     "done": true
   },
-  "jeg:waterpipe_shotgun": {
+  "evilcraft:root": {
     "criteria": {
-      "Item": "2025-06-15 00:41:31 +0000"
-    },
-    "done": true
-  },
-  "mekanismadditions:not_the_babies": {
-    "criteria": {
-      "baby_skeleton": "2025-06-15 00:35:02 +0000"
+      "criteria_0": "2025-06-14 23:50:05 +0000"
     },
     "done": true
   },
   "jeg:scrap": {
+    "criteria": {
+      "Item": "2025-06-14 23:51:33 +0000"
+    },
+    "done": true
+  },
+  "jeg:root": {
     "criteria": {
       "Item": "2025-06-14 23:51:33 +0000"
     },
@@ -260,45 +261,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-06-15 00:19:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-06-15 00:40:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-15 00:35:55 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2025-06-14 23:50:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-06-15 00:40:20 +0000"
-    },
-    "done": true
-  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-06-14 23:53:43 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2025-06-15 00:38:48 +0000"
     },
     "done": true
   },
@@ -308,15 +273,9 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "iron": "2025-06-15 00:33:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-15 00:40:27 +0000"
+      "sword": "2025-06-15 00:19:03 +0000"
     },
     "done": true
   },
@@ -326,9 +285,93 @@
     },
     "done": true
   },
-  "jeg:root": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "Item": "2025-06-14 23:51:33 +0000"
+      "iron": "2025-06-15 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-15 00:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-15 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-06-15 00:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-15 00:40:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-15 00:40:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:waterpipe_shotgun": {
+    "criteria": {
+      "Item": "2025-06-15 00:41:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-15 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-06-15 01:04:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-15 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_subterranodon": "2025-06-15 01:06:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-06-15 01:14:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 01:20:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 01:20:59 +0000"
     },
     "done": true
   },

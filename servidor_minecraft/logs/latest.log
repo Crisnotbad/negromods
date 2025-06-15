@@ -73,3 +73,129 @@
 [15Jun2025 00:43:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arka2007> asi /tp arka2007 fernanfumacrak
 [15Jun2025 00:43:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported arka2007 to fernanfumacrak]
 [15Jun2025 00:44:49.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported 3 entities to GabitoR80]
+[15Jun2025 00:47:55.608] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20114, y=64, z=3912}
+[15Jun2025 00:50:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 withered away whilst fighting Nightmare Stalker
+[15Jun2025 00:50:02.792] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 00:50:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Nightmare Stalker
+[15Jun2025 00:50:09.140] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[15Jun2025 00:50:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported 3 entities to GabitoR80]
+[15Jun2025 00:50:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Nightmare Stalker
+[15Jun2025 00:50:24.589] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:50:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20144.500000, 67.500000, 3837.500000]
+[15Jun2025 00:51:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20160.500000, 65.500000, 3871.500000]
+[15Jun2025 00:51:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Restless Spirit
+[15Jun2025 00:51:03.464] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 00:51:43.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was shot by Bonescaller
+[15Jun2025 00:51:44.191] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 00:51:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Restless Spirit
+[15Jun2025 00:51:51.843] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:51:58.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/102796, l='ServerLevel[world]', x=20102.93, y=64.85, z=3862.80] died: Honeyed Archer was slain by arka2007
+[15Jun2025 00:51:59.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20092.500000, 67.500000, 3890.500000]
+[15Jun2025 00:52:10.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Junior Summoner]
+[15Jun2025 00:54:20.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 withered away
+[15Jun2025 00:54:20.233] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:54:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20098.500000, 65.500000, 3869.500000]
+[15Jun2025 00:54:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak withered away whilst fighting Lifestealer
+[15Jun2025 00:54:31.672] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[15Jun2025 00:54:37.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20099.500000, 65.500000, 3853.500000]
+[15Jun2025 00:54:48.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Peaceful]
+[15Jun2025 00:54:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Hard]
+[15Jun2025 00:55:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was shot by arka2007
+[15Jun2025 00:55:38.486] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 00:55:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20102.500000, 65.500000, 3868.500000]
+[15Jun2025 00:58:05.508] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20178, y=69, z=3888}
+[15Jun2025 00:58:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 767.500000, 124.500000, -476.500000]
+[15Jun2025 01:00:09.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 01:03:30.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was shot by arka2007
+[15Jun2025 01:03:30.491] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[15Jun2025 01:03:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20189.500000, 69.500000, 3966.500000]
+[15Jun2025 01:04:01.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Town of Bedrock]
+[15Jun2025 01:04:02.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [The Cave That Time Forgot]
+[15Jun2025 01:06:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Life Finds A Way]
+[15Jun2025 01:06:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 127.500000, 67.500000, -403.500000]
+[15Jun2025 01:07:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was eliminated by Pillager
+[15Jun2025 01:07:02.497] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 01:07:12.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20139.500000, 65.500000, 3888.500000]
+[15Jun2025 01:12:24.559] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=20168, y=70, z=3991}
+[15Jun2025 01:13:56.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 01:14:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Re-Extinct]
+[15Jun2025 01:14:14.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 01:17:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fernanfumacrak> yordi?
+[15Jun2025 01:17:31.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GabitoR80> dime
+[15Jun2025 01:19:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Ferrous Wroughtnaut
+[15Jun2025 01:19:35.056] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 01:19:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Peaceful]
+[15Jun2025 01:19:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Hard]
+[15Jun2025 01:20:06.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Made arka2007 a server operator]
+[15Jun2025 01:20:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20231.500000, 24.000000, 3944.500000]
+[15Jun2025 01:20:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has reached the goal [Discreet Search]
+[15Jun2025 01:20:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was taken down by Skeleton
+[15Jun2025 01:20:42.348] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 01:20:59.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has made the advancement [Knowledge raises the soul]
+[15Jun2025 01:21:15.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20205.500000, 68.500000, 3858.500000]
+[15Jun2025 01:21:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Zombie
+[15Jun2025 01:21:58.604] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 01:22:02.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20178.500000, 66.500000, 3854.500000]
+[15Jun2025 01:22:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Ferrous Wroughtnaut
+[15Jun2025 01:22:08.044] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 01:22:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20231.500000, 24.000000, 3944.500000]
+[15Jun2025 01:22:14.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arka2007> a
+[15Jun2025 01:22:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was slain by Ferrous Wroughtnaut
+[15Jun2025 01:22:27.203] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 01:22:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arka2007> a
+[15Jun2025 01:22:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20231.500000, 24.000000, 3944.500000]
+[15Jun2025 01:22:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Reverend Dariush the Questionable
+[15Jun2025 01:22:41.047] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 01:22:41.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[15Jun2025 01:22:41.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[15Jun2025 01:22:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 01:22:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[15Jun2025 01:22:45.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20163.500000, 66.500000, 3853.500000]
+[15Jun2025 01:22:55.303] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:22:55.306] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:22:55.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:48949] logged in with entity id 124962 at (20219.635095885475, -13.81498074300075, 3958.0293518306626)
+[15Jun2025 01:22:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 01:22:55.358] [Server thread/INFO] [jeg/]: Player arka2007 has received the first join message.
+[15Jun2025 01:22:55.359] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[15Jun2025 01:22:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to GabitoR80]
+[15Jun2025 01:23:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fernanfumacrak was slain by Reverend Dariush the Questionable
+[15Jun2025 01:23:00.438] [Server thread/INFO] [tombstone/]: The player fernanfumacrak has successfully been saved
+[15Jun2025 01:23:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fernanfumacrak: Teleported fernanfumacrak to 20165.500000, 66.500000, 3854.500000]
+[15Jun2025 01:23:08.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Reverend Dariush the Questionable'/124672, l='ServerLevel[world]', x=20167.17, y=66.00, z=3855.26] died: Reverend Dariush the Questionable was slain by GabitoR80
+[15Jun2025 01:23:09.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 has completed the challenge [He Wasn't So Strong]
+[15Jun2025 01:23:10.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 fell from a high place
+[15Jun2025 01:23:11.323] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 01:23:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Peaceful]
+[15Jun2025 01:23:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: The difficulty has been set to Hard]
+[15Jun2025 01:23:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 01:23:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 202119.500000, -30.000000, 3958.500000]
+[15Jun2025 01:23:36.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[15Jun2025 01:23:36.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arka2007> a
+[15Jun2025 01:23:44.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 202119.500000, -29.000000, 3958.500000]
+[15Jun2025 01:23:50.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 202119.500000, -20.000000, 3958.500000]
+[15Jun2025 01:23:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 202119.500000, 20.000000, 3958.500000]
+[15Jun2025 01:24:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arka2007: Teleported arka2007 to 20219.500000, 20.000000, 3958.500000]
+[15Jun2025 01:24:05.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[15Jun2025 01:24:05.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[15Jun2025 01:24:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 01:24:28.844] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:24:28.847] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:24:28.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:48425] logged in with entity id 126450 at (20219.5, 6.499543995985411, 3958.5)
+[15Jun2025 01:24:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 01:24:28.921] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[15Jun2025 01:24:47.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[15Jun2025 01:24:47.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[15Jun2025 01:24:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 01:25:01.539] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:25:01.541] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:25:01.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:53217] logged in with entity id 126615 at (20219.5, -7.525243250719992, 3958.5)
+[15Jun2025 01:25:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 01:25:01.604] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
+[15Jun2025 01:25:18.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 was kicked for floating too long!
+[15Jun2025 01:25:19.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arka2007 lost connection: Flying is not enabled on this server
+[15Jun2025 01:25:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 left the game
+[15Jun2025 01:25:33.784] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:25:33.787] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Jun2025 01:25:33.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arka2007[/127.154.147.201:46357] logged in with entity id 126859 at (20219.5, -21.37525341652845, 3958.5)
+[15Jun2025 01:25:33.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 joined the game
+[15Jun2025 01:25:33.843] [Server thread/INFO] [Jade/]: Syncing config to arka2007 (48775035-8252-363a-a7ac-fb4a8f39814c)
