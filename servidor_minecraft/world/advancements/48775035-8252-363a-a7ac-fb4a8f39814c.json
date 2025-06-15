@@ -437,6 +437,7 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
+      "baby_wither_skeleton": "2025-06-15 03:53:36 +0000",
       "baby_skeleton": "2025-06-15 02:52:47 +0000"
     },
     "done": false
@@ -471,9 +472,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-15 03:51:51 +0000"
+    },
+    "done": false
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-06-15 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-15 03:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-15 03:51:49 +0000"
     },
     "done": true
   },
@@ -507,15 +526,33 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-15 03:51:49 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-15 03:32:12 +0000"
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-15 03:53:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-15 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-15 03:52:59 +0000"
     },
     "done": true
   },

@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-15 03:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-15 02:43:58 +0000"
@@ -166,6 +172,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-06-15 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-15 03:51:49 +0000"
     },
     "done": true
   },
