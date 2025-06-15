@@ -307,3 +307,30 @@
 [15Jun2025 02:45:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Suit Up]
 [15Jun2025 02:46:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Getting an Upgrade]
 [15Jun2025 02:46:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 02:47:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Stone Age]
+[15Jun2025 02:49:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to sildemcito]
+[15Jun2025 02:50:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 02:50:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 02:52:40.758] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=20148, y=65, z=3848}
+[15Jun2025 02:52:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Siamese Skeleton
+[15Jun2025 02:52:54.236] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[15Jun2025 02:52:55.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Velma'/164205, l='ServerLevel[world]', x=20158.77, y=68.00, z=3842.79] died: Velma was slain by arka2007
+[15Jun2025 02:52:55.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 has completed the challenge [He Wasn't So Strong]
+[15Jun2025 02:53:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to arka2007]
+[15Jun2025 02:53:13.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arka2007 was shot by Baby Skeleton
+[15Jun2025 02:53:14.208] [Server thread/INFO] [tombstone/]: The player arka2007 has successfully been saved
+[15Jun2025 02:53:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Not Today, Thank You]
+[15Jun2025 02:54:09.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito was slain by Enderman
+[15Jun2025 02:54:09.240] [Server thread/INFO] [tombstone/]: The player sildemcito has successfully been saved
+[15Jun2025 02:54:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sildemcito: Teleported sildemcito to arka2007]
+[15Jun2025 02:54:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 123.500000, 67.500000, -404.500000]
+[15Jun2025 02:54:51.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 53.500000, -53.500000, -201.500000]
+[15Jun2025 02:56:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20110.500000, 64.500000, 3883.500000]
+[15Jun2025 02:56:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the time to 1000]
+[15Jun2025 02:56:18.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Monster Hunter]
+[15Jun2025 02:56:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [Knowledge of Death]
+[15Jun2025 02:56:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sildemcito has made the advancement [A Strange Grave Dust]
+[15Jun2025 02:56:24.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Set the weather to clear]
+[15Jun2025 02:56:32.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GabitoR80 was slain by Dread Hound
+[15Jun2025 02:56:32.337] [Server thread/INFO] [tombstone/]: The player GabitoR80 has successfully been saved
+[15Jun2025 02:56:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GabitoR80: Teleported GabitoR80 to 20129.500000, 65.500000, 3902.500000]

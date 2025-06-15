@@ -412,9 +412,21 @@
     },
     "done": true
   },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-15 02:52:47 +0000"
+    },
+    "done": false
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-06-15 02:11:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-15 02:52:55 +0000"
     },
     "done": true
   },
